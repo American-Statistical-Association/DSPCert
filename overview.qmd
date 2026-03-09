@@ -1,0 +1,107 @@
+---
+title: "ASA Data Science Professional Certification"
+format:
+  html:
+    page-layout: full
+    toc: false
+    theme: [flatly, overview.scss]
+---
+
+```{=html}
+<div class="landing-hero">
+  <div class="hero-inner">
+    <img src="ASA-logo.png" alt="American Statistical Association" class="hero-logo" />
+    <h1 class="hero-title">Data Science Professional Certification</h1>
+    <p class="hero-subtitle">A voluntary, portfolio-based credential for data science professionals — offered by the American Statistical Association</p>
+    <div class="hero-badges">
+      <span class="badge-credential">DSP</span>
+      <span class="badge-label">Data Science Professional</span>
+      <span class="badge-divider">·</span>
+      <span class="badge-credential">AdvDSP</span>
+      <span class="badge-label">Advanced Data Science Professional</span>
+    </div>
+  </div>
+</div>
+
+<div class="landing-links">
+  <a class="link-card primary" href="https://american-statistical-association.github.io/DSPCert/">
+    <div class="link-icon">📋</div>
+    <div class="link-text">
+      <div class="link-title">Certification Guidelines</div>
+      <div class="link-desc">Full requirements, eligibility, and standards</div>
+    </div>
+    <div class="link-arrow">→</div>
+  </a>
+
+  <div class="link-card-group-label">Apply for Certification</div>
+
+  <a class="link-card indent" href="https://amstat.jotform.com/team/accreditation/DSP-Cert-app">
+    <div class="link-icon">✏️</div>
+    <div class="link-text">
+      <div class="link-title">Data Science Professional (DSP)</div>
+      <div class="link-desc">For applicants with at least 2 years of experience</div>
+    </div>
+    <div class="link-arrow">→</div>
+  </a>
+
+  <a class="link-card indent" href="https://amstat.jotform.com/team/accreditation/AdvDSP-Cert-application">
+    <div class="link-icon">✏️</div>
+    <div class="link-text">
+      <div class="link-title">Advanced Data Science Professional (AdvDSP)</div>
+      <div class="link-desc">For applicants with at least 5 years of experience</div>
+    </div>
+    <div class="link-arrow">→</div>
+  </a>
+
+  <a class="link-card" href="https://ww2.amstat.org/committees/commdetails.cfm?txtComm=CBNORG02">
+    <div class="link-icon">👥</div>
+    <div class="link-text">
+      <div class="link-title">Certification Committee</div>
+      <div class="link-desc">Meet the Data Science Certification Committee</div>
+    </div>
+    <div class="link-arrow">→</div>
+  </a>
+</div>
+
+<div class="process-section">
+  <h2 class="process-heading">The Certification Process</h2>
+  <div class="process-steps">
+    <div class="step">
+      <div class="step-number">1</div>
+      <div class="step-content">
+        <div class="step-title">Submit Application</div>
+        <div class="step-desc">Complete the online application form with your personal information, academic history, competency evidence, work experience, and professional development record.</div>
+      </div>
+    </div>
+    <div class="step-connector"></div>
+    <div class="step">
+      <div class="step-number">2</div>
+      <div class="step-content">
+        <div class="step-title">Pay Application Fee</div>
+        <div class="step-desc">Submit the non-refundable application fee. Your application will not be reviewed until both the materials and fee have been received.</div>
+      </div>
+    </div>
+    <div class="step-connector"></div>
+    <div class="step">
+      <div class="step-number">3</div>
+      <div class="step-content">
+        <div class="step-title">Review by Committee</div>
+        <div class="step-desc">A subgroup of the Data Science Certification Committee (DSCC) conducts a confidential peer review of your submitted portfolio materials.</div>
+      </div>
+    </div>
+    <div class="step-connector"></div>
+    <div class="step">
+      <div class="step-number">4</div>
+      <div class="step-content">
+        <div class="step-title">Decision Communicated</div>
+        <div class="step-desc">You will receive written notification of the committee's decision, typically within <strong>8 weeks</strong>. Unsuccessful applicants receive written feedback and may reapply.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="landing-footer">
+  <p>Questions? Contact <a href="mailto:certification@amstat.org">certification@amstat.org</a></p>
+  <p class="footer-note">ASA membership is required to apply and to maintain certification.</p>
+</div>
+```
