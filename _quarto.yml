@@ -10,7 +10,7 @@ book:
 
   navbar:
     background: primary
-    logo: asa-logo.svg
+    logo: ASA-logo.png
     logo-alt: "American Statistical Association"
     title: false
 
