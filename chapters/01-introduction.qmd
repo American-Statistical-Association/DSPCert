@@ -1,0 +1,38 @@
+---
+title: "Introduction"
+---
+
+This document, approved by the ASA Board of Directors on September 30, 2024, provides the framework for voluntary professional data science certification. Additional details for applicants are found on the data science certification website.
+
+Data Science Professional (DSP) and Advanced Data Science Professional (AdvDSP) statuses are offered by the American Statistical Association as a service to those of its members who find added value in a voluntarily obtained credential that provides recognition by peers that they have appropriate training and knowledge regarding the areas set forth in @sec-professional-competence and [Appendix 1](appendix-1.qmd), including but not limited to the management, protection, engineering, stewardship, and analysis of data and the ethics of conducting those activities.
+
+::: {.callout-note}
+Not all data scientists will need or seek DSP or AdvDSP status, and the lack of DSP or AdvDSP status should never be construed by itself as evidence of lack of education, expertise, or competence as a data scientist. However, holders of the DSP or AdvDSP credential have voluntarily applied for this status, have submitted materials that have been carefully reviewed by peers and found to be deserving of the credential, and must periodically undergo further review to maintain this status.
+:::
+
+The interconnection of statistics, data science, and artificial intelligence is concisely explained in the [2024 ASA statement on this topic](https://www.amstat.org/docs/default-source/amstat-documents/the-role-of-statistics-in-data-science-and-artificial-intelligence.pdf).
+
+DSP or AdvDSP status is awarded based on criteria that have been established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. In brief, the criteria cover the education, experience, and demonstrated competence of the candidate. Thus, **ASA data science certification is a portfolio-based rather than an examination-based designation.**
+
+If there should be any contradiction between the requirements for DSP or AdvDSP status listed in this document and those of the Alliance for Data Science Professionals, the latter prevails.
+
+## Application Process Overview
+
+Applications are considered in confidence by the ASA's Data Science Certification Committee (DSCC). To apply, applicants must:
+
+1. Complete the official application form available online at the ASA's data science certification website
+2. Supply all other required materials as described elsewhere in this document
+3. Submit materials in English (translations must be provided for materials originally written in other languages)
+4. Pay the non-refundable application fee
+
+Application materials will be submitted electronically to the ASA and may be submitted at any time. Subgroups of the DSSC will review applications. However, **applications will not be reviewed until they are complete**—that is, until all required materials have been submitted and the non-refundable application fee has been received.
+
+Unsuccessful applicants will receive written feedback from the DSSC and may reapply. Successful applicants will be assessed an annual maintenance fee.
+
+## Applicant Responsibilities
+
+Applicants are fully responsible for ensuring that the materials submitted are sufficient to assess the candidacy.
+
+In the application for certification, each applicant shall agree to hold the ASA harmless if DSP or AdvDSP certification is not granted. Certification is not a guarantee of any sort that the data scientist's client or any third party will be satisfied with the work undertaken by the certified data scientist, and the data scientist, not the ASA, is responsible for their own work.
+
+All decisions, guidelines, and procedures of the ASA and its Data Science Certification Committee are solely to be determined at their unfettered and absolute discretion, not subject to external appeal or review of any kind.

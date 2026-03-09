@@ -1,0 +1,64 @@
+---
+title: "Professional Competence"
+subtitle: "Standards and Breadth of Knowledge"
+---
+
+## Skill Areas {#sec-professional-competence}
+
+The Alliance for Data Science Professionals defines the standards for data science practitioners in a table outlining five Skill Areas (A–E), with ethics being a sixth category included in each of the other five. See [Appendix 1](appendix-1.qmd) for details.
+
+## Breadth of Knowledge Requirements
+
+| Certification | Requirement |
+|---|---|
+| **DSP** | Demonstrate applied understanding and knowledge in **three of the five** Skill Areas; may have limited understanding in the remaining two |
+| **AdvDSP** | Demonstrate **deep** understanding and knowledge in **Skill Area E** and **at least two other** Skill Areas; display appropriate general knowledge in the remaining two |
+
+## Proficiency Levels
+
+The following table describes the levels of knowledge used to assess applicants:
+
+| Skill Level | Proficiency | Experience |
+|---|---|---|
+| **Limited** | Limited conceptual knowledge | Minimal experience—read about it, some education and some practice with tools; some exposure in educational training setting |
+| **General** | General conceptual knowledge; theoretical knowledge applied in education or training context | Completed formal education, including capstone project; has factual, procedural, and theoretical knowledge; can interpret and evaluate relevant information; is aware of different perspectives |
+| **Applied** | Applied knowledge | Performs with supervision or mentoring |
+| **Deep** | In-depth knowledge | Proficient with state-of-the-art approaches without supervision; advanced practical and conceptual knowledge; understands different theoretical perspectives; can critically analyze complex information |
+| **Expert** | Expert knowledge | Advances the state-of-the-art |
+
+## Ethics and Efficacy
+
+It is important that all professionals working within the field of Data Science have a clear understanding of the ethics which underpin the collection, management, use, and communication of the data and the results with which they work. It is equally important that a data scientist takes responsibility for the assurance of the models they build. Assurance covers both the *efficacy* of the application and the *ethical* nature of its design and implementation.
+
+These attributes are not something that can, or should, be assessed as one standalone criterion. Rather, when completing this application, you should wherever possible include reference to your knowledge and working practices relating to the appropriate ethical considerations such as:
+
+**Data considerations:**
+
+- Collection, validity for use in the intended purpose, permission for usage, storage, security
+
+**Model considerations:**
+
+- Development, testing (e.g., fairness, bias, error rates), usage (how could the model and results be used for an unintended purpose?), and transparency
+
+**Communication considerations:**
+
+- Explanation of why the science is required; the results achieved and how misinterpretation of the results can be minimized
+
+**Legal and regulatory:**
+
+- Relevant laws and permissions of usage for data (including legal rights of individuals, privacy, and anonymity)
+
+**Efficacy considerations:**
+
+- Quality assurance of code and data
+- Validation of model fit
+- Robustness of the model and software implementation
+- Ongoing monitoring of model implementation
+
+::: {.callout-note}
+The list above is not exhaustive. It serves as a guide to help applicants show the DSSC they are aware of the professional expectations of those who work in this field. Applicants should include any other areas of ethical and efficacy considerations they feel are important within their area of expertise.
+:::
+
+## Confidentiality and Conflicts of Interest
+
+Applicants may alert the DSSC that some members of the committee should not see their application materials due to confidentiality, conflict-of-interest, or other specified reasons. Members of the DSSC may also recuse themselves from reviewing certain applications for such reasons (see @sec-conflict-of-interest).

@@ -1,0 +1,17 @@
+---
+title: "Conflict of Interest"
+---
+
+## DSSC Member Obligations {#sec-conflict-of-interest}
+
+A member of the DSSC who has a conflict of interest with respect to any individual with an action ("case") before the committee shall declare that conflict of interest and be absent from the deliberations related to the case.
+
+Conflicts of interest include (but are not limited to):
+
+- The committee member and the individual are colleagues, having worked or conducted research together within the last six years
+- The committee member has supervised the individual in a graduate program or as an employee
+- The committee member has written a letter of reference for the individual in the previous six years
+
+## Applicant Rights
+
+An applicant may indicate the names of **up to three committee members** who the applicant believes may have a conflict of interest in reviewing their application. DSSC members thus identified will not participate in the review of that application.

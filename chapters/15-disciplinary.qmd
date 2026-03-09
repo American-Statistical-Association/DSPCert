@@ -1,0 +1,32 @@
+---
+title: "Disciplinary Matters"
+---
+
+## Grounds for Revocation {#sec-disciplinary}
+
+Certification may be revoked for a specified period by the ASA Board of Directors if, in its judgment, a certified data scientist has:
+
+1. Refused or neglected to comply with the provisions of ASA membership
+2. Willfully acted in a manner prejudicial to the interests of the ASA or the data science profession, including non-compliance with the ASA's Ethical Guidelines for Statistical Practices
+3. Supplied incorrect information in an application for certification or renewal of certification
+
+## Complaint Process
+
+When the ASA receives a formal complaint against a certified data scientist regarding one or more of the grounds for revocation:
+
+1. The individual about whom the complaint was filed shall be notified of the complaint and given the opportunity to respond
+2. The DSSC will conduct a preliminary investigation and may exonerate the individual based on this investigation
+3. If further consideration is needed, the ASA Board of Directors, after seeking legal advice, will decide whether the individual should be exonerated, receive advice or warning regarding specified violations, or have their certification revoked
+4. The Board will notify the individual of its decision **within 14 days** of its decision
+
+## Consequences of Revocation
+
+Revocation of certification results in:
+
+- Removal of the individual's name from the list of certified members (see @sec-public-information)
+- Loss of certification fees
+- No other public report of such action
+
+## Appeal of Revocation
+
+An individual whose certification has been revoked may appeal through written notice to the Executive Director of the ASA **within 30 days** of receipt of notification of revocation. The Executive Committee of the ASA Board of Directors will review the individual's appeal and will determine whether the revocation should be upheld or overturned.

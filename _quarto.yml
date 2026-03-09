@@ -1,0 +1,66 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Guidelines for Voluntary Professional Data Science Certification"
+  subtitle: "American Statistical Association"
+  date: "Updated January 23, 2026"
+  date-format: "MMMM D, YYYY"
+
+  navbar:
+    background: primary
+    logo: asa-logo.svg
+    logo-alt: "American Statistical Association"
+    title: false
+
+  chapters:
+    - index.qmd
+    - chapters/01-introduction.qmd
+    - chapters/02-level-distinctions.qmd
+    - chapters/03-membership.qmd
+    - chapters/04-ethical-standards.qmd
+    - chapters/05-educational-requirements.qmd
+    - chapters/06-experience.qmd
+    - chapters/07-professional-competence.qmd
+    - chapters/08-professional-development.qmd
+    - chapters/09-application-form.qmd
+    - chapters/10-dssc.qmd
+    - chapters/11-appeals.qmd
+    - chapters/12-maintenance.qmd
+    - chapters/13-renewal.qmd
+    - chapters/14-other-certifications.qmd
+    - chapters/15-disciplinary.qmd
+    - chapters/16-conflict-of-interest.qmd
+    - chapters/17-public-information.qmd
+    - chapters/18-usage-of-designation.qmd
+    - chapters/19-dissolution.qmd
+    - chapters/appendix-1.qmd
+
+  sidebar:
+    style: "docked"
+    background: light
+
+  page-footer:
+    left: "© American Statistical Association"
+    right: "DSP/AdvDSP Certification Guidelines"
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    include-in-header: _navbar-style.html
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 2
+    highlight-style: github
+
+  pdf:
+    documentclass: scrbook
+    papersize: letter
+    toc: true
+    number-sections: true
+    colorlinks: true
+    urlcolor: "2b3d5b"
+    linkcolor: "2b3d5b"

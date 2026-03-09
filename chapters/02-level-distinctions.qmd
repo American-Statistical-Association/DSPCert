@@ -1,0 +1,30 @@
+---
+title: "Level Distinctions"
+---
+
+The differences between DSP and AdvDSP requirements can be summarized across four dimensions:
+
+| Dimension | Description |
+|---|---|
+| **Responsibility** | The higher the level of certification, the greater the level of responsibility and accountability |
+| **Decision making** | The level of authority to make decisions and the impact across the organization |
+| **Complexity** | Technical complexity (associated with technical skills applied) and organizational complexity (skills and decision-making that apply across and potentially beyond the organization) |
+| **Business impact** | How far-reaching actions may apply and impact, and understanding of how and on whom they impact |
+
+## DSP Requirements
+
+Applicants for DSP status must demonstrate that they have **personal responsibility for their own work**, including ethical consideration, and apply technical skills in delivering outcomes. They should also demonstrate some of the following:
+
+- Have responsibility for activities of a section or team
+- Have decision-making authority at the section or team level
+- Act as an advisor/consultant at a departmental level
+- Understand how their individual practice impacts other departments
+
+## AdvDSP Requirements
+
+Applicants for AdvDSP status must demonstrate that they are **fully accountable for their own work and that of others**, including ethical considerations, and undertake a range of complex work activities that have a significant impact. They should also demonstrate some of the following:
+
+- Have responsibility for a significant function across the organization
+- Have significant decision-making authority within their given area of expertise
+- Act as an advisor/consultant at a strategic level
+- Consider the impact across the business and, more widely, of actions undertaken based on their decisions

@@ -1,0 +1,14 @@
+---
+title: "Public Information about Certification"
+---
+
+## Public Listing of Certified Members {#sec-public-information}
+
+The ASA maintains a public list (e.g., a web page) of certified data scientists. Inclusion in the list does not represent an endorsement by the ASA. The list may include:
+
+- The member's name and contact information
+- Optionally, a link to a personal website where the member may provide additional information about their experience and expertise
+
+::: {.callout-important}
+If a member's certification lapses or is revoked, the member's information shall be removed from the public listing **within 90 days**.
+:::

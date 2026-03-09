@@ -1,0 +1,21 @@
+---
+title: "Renewal of Certification"
+---
+
+Certification covers a **five-year period** after which renewal will be required to maintain certified status.
+
+## Certification Period
+
+Certified status will begin on the date of approval by the DSSC, and this five-year period will end five years from the beginning of the certified member's next full membership year at the time of certification.
+
+::: {.callout-note}
+**Example:** Jane Doe has a membership that is annually renewable on 06/30/25. She is certified on 04/01/25. Her five-year period will end 06/30/30.
+:::
+
+Life members' five-year certification period ends five years from the date of initial certification.
+
+## Renewal Requirements
+
+ASA may request information from the certified member after the five-year period to indicate that the member is still actively practicing data science.
+
+The DSSC will take into account temporary interruptions to employment including, but not limited to, those for illness and parental leave.

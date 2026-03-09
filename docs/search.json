@@ -1,0 +1,492 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guidelines for Voluntary Professional Data Science Certification",
+    "section": "",
+    "text": "0.1 About This Document\nThese guidelines, approved by the ASA Board of Directors on September 30, 2024 and updated January 23, 2026 and March 5, 2026, provide the framework for voluntary professional data science certification through the American Statistical Association.\nThe ASA offers two levels of voluntary data science certification:\nBoth credentials are portfolio-based (not examination-based), awarded through peer review of education, experience, and demonstrated competence aligned with the standards of the Alliance for Data Science Professionals.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Guidelines for Voluntary Professional Data Science Certification</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#about-this-document",
+    "href": "index.html#about-this-document",
+    "title": "Guidelines for Voluntary Professional Data Science Certification",
+    "section": "",
+    "text": "Credential\nFull Name\nExperience Required\n\n\n\n\nDSP\nData Science Professional\n2 years\n\n\nAdvDSP\nAdvanced Data Science Professional\n5 years\n\n\n\n\n\n\n\n\n\n\nAlliance for Data Science Professionals\n\n\n\nDSP and AdvDSP status is awarded based on criteria established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. If any contradiction exists between the requirements listed in this document and those of the Alliance, the Alliance’s requirements prevail.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Guidelines for Voluntary Professional Data Science Certification</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-navigation",
+    "href": "index.html#quick-navigation",
+    "title": "Guidelines for Voluntary Professional Data Science Certification",
+    "section": "0.2 Quick Navigation",
+    "text": "0.2 Quick Navigation\nThe guidelines cover:\n\nEligibility: Level distinctions, Membership requirements, Education, and Experience\nStandards: Professional competence and skill areas\nProcess: Application form, The DSSC, and Appeals\nMaintaining certification: Maintenance, Renewal\nGovernance: Disciplinary matters, Conflict of interest, Public information\nAppendix: Extended Skill Area Standards (A–E)\n\n\nAdditional details for applicants are found on the ASA data science certification website.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Guidelines for Voluntary Professional Data Science Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-introduction.html",
+    "href": "chapters/01-introduction.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "2.1 Application Process Overview\nThis document, approved by the ASA Board of Directors on September 30, 2024, provides the framework for voluntary professional data science certification. Additional details for applicants are found on the data science certification website.\nData Science Professional (DSP) and Advanced Data Science Professional (AdvDSP) statuses are offered by the American Statistical Association as a service to those of its members who find added value in a voluntarily obtained credential that provides recognition by peers that they have appropriate training and knowledge regarding the areas set forth in Section 8.1 and Appendix 1, including but not limited to the management, protection, engineering, stewardship, and analysis of data and the ethics of conducting those activities.\nThe interconnection of statistics, data science, and artificial intelligence is concisely explained in the 2024 ASA statement on this topic.\nDSP or AdvDSP status is awarded based on criteria that have been established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. In brief, the criteria cover the education, experience, and demonstrated competence of the candidate. Thus, ASA data science certification is a portfolio-based rather than an examination-based designation.\nIf there should be any contradiction between the requirements for DSP or AdvDSP status listed in this document and those of the Alliance for Data Science Professionals, the latter prevails.\nApplications are considered in confidence by the ASA’s Data Science Certification Committee (DSCC). To apply, applicants must:\nApplication materials will be submitted electronically to the ASA and may be submitted at any time. Subgroups of the DSSC will review applications. However, applications will not be reviewed until they are complete—that is, until all required materials have been submitted and the non-refundable application fee has been received.\nUnsuccessful applicants will receive written feedback from the DSSC and may reapply. Successful applicants will be assessed an annual maintenance fee.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-introduction.html#application-process-overview",
+    "href": "chapters/01-introduction.html#application-process-overview",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "Complete the official application form available online at the ASA’s data science certification website\nSupply all other required materials as described elsewhere in this document\nSubmit materials in English (translations must be provided for materials originally written in other languages)\nPay the non-refundable application fee",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-introduction.html#applicant-responsibilities",
+    "href": "chapters/01-introduction.html#applicant-responsibilities",
+    "title": "2  Introduction",
+    "section": "2.2 Applicant Responsibilities",
+    "text": "2.2 Applicant Responsibilities\nApplicants are fully responsible for ensuring that the materials submitted are sufficient to assess the candidacy.\nIn the application for certification, each applicant shall agree to hold the ASA harmless if DSP or AdvDSP certification is not granted. Certification is not a guarantee of any sort that the data scientist’s client or any third party will be satisfied with the work undertaken by the certified data scientist, and the data scientist, not the ASA, is responsible for their own work.\nAll decisions, guidelines, and procedures of the ASA and its Data Science Certification Committee are solely to be determined at their unfettered and absolute discretion, not subject to external appeal or review of any kind.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-level-distinctions.html",
+    "href": "chapters/02-level-distinctions.html",
+    "title": "3  Level Distinctions",
+    "section": "",
+    "text": "3.1 DSP Requirements\nThe differences between DSP and AdvDSP requirements can be summarized across four dimensions:\nApplicants for DSP status must demonstrate that they have personal responsibility for their own work, including ethical consideration, and apply technical skills in delivering outcomes. They should also demonstrate some of the following:",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Level Distinctions</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-level-distinctions.html#dsp-requirements",
+    "href": "chapters/02-level-distinctions.html#dsp-requirements",
+    "title": "3  Level Distinctions",
+    "section": "",
+    "text": "Have responsibility for activities of a section or team\nHave decision-making authority at the section or team level\nAct as an advisor/consultant at a departmental level\nUnderstand how their individual practice impacts other departments",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Level Distinctions</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-level-distinctions.html#advdsp-requirements",
+    "href": "chapters/02-level-distinctions.html#advdsp-requirements",
+    "title": "3  Level Distinctions",
+    "section": "3.2 AdvDSP Requirements",
+    "text": "3.2 AdvDSP Requirements\nApplicants for AdvDSP status must demonstrate that they are fully accountable for their own work and that of others, including ethical considerations, and undertake a range of complex work activities that have a significant impact. They should also demonstrate some of the following:\n\nHave responsibility for a significant function across the organization\nHave significant decision-making authority within their given area of expertise\nAct as an advisor/consultant at a strategic level\nConsider the impact across the business and, more widely, of actions undertaken based on their decisions",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Level Distinctions</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-membership.html",
+    "href": "chapters/03-membership.html",
+    "title": "4  ASA Membership",
+    "section": "",
+    "text": "Applicants for DSP or AdvDSP status must be members of the ASA to apply for certification and must maintain membership to keep it. Applicants must be actively involved in the practice of data science (see Section 8.1).\n\n\n\n\n\n\nImportant\n\n\n\nIf ASA membership lapses, so does DSP or AdvDSP status. Article 1, part 4, of the ASA Bylaws sets the rules for membership lapses and these rules are hereby incorporated herein by reference and made a part of this document as if set forth in full.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>ASA Membership</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-ethical-standards.html",
+    "href": "chapters/04-ethical-standards.html",
+    "title": "5  Ethical Standards",
+    "section": "",
+    "text": "Applicants for DSP or AdvDSP status must agree to uphold the ASA’s Ethical Guidelines for Statistical Practice. (In addition, see Section 8.1 regarding ethics.)\nCertified statisticians, including those certified with DSP or AdvDSP status, who do not, in the judgment of the DSSC, uphold these ethical guidelines may be subject to disciplinary action (see Section 16.1).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ethical Standards</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-educational-requirements.html",
+    "href": "chapters/05-educational-requirements.html",
+    "title": "6  Educational Requirements",
+    "section": "",
+    "text": "6.1 International Degrees\nApplicants for DSP or AdvDSP status must hold at least a bachelor’s degree with evidence of formal training in data science and statistics as part of their degree or achieved by other methods. Applicants will normally be asked to submit a transcript as proof of degree.\nApplicants possessing their degrees from a non-US institution may be asked to submit the relevant university transcript to provide the DSSC with information to help it understand the equivalence to US advanced degrees. The ASA reserves the right to use an independent source to judge the equivalence of such degrees and reserves the right to charge the applicant for those costs (after duly advising the applicant of the cost).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Educational Requirements</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-experience.html",
+    "href": "chapters/06-experience.html",
+    "title": "7  Experience",
+    "section": "",
+    "text": "Applicants must have documented experience in the employment of appropriate data science concepts and techniques (see Section 8.1).\n\n\n\nCertification Level\nMinimum Experience Required\n\n\n\n\nDSP\n2 years\n\n\nAdvDSP\n5 years",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Experience</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-professional-competence.html",
+    "href": "chapters/07-professional-competence.html",
+    "title": "8  Professional Competence",
+    "section": "",
+    "text": "8.1 Skill Areas\nThe Alliance for Data Science Professionals defines the standards for data science practitioners in a table outlining five Skill Areas (A–E), with ethics being a sixth category included in each of the other five. See Appendix 1 for details.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-professional-competence.html#breadth-of-knowledge-requirements",
+    "href": "chapters/07-professional-competence.html#breadth-of-knowledge-requirements",
+    "title": "8  Professional Competence",
+    "section": "8.2 Breadth of Knowledge Requirements",
+    "text": "8.2 Breadth of Knowledge Requirements\n\n\n\n\n\n\n\nCertification\nRequirement\n\n\n\n\nDSP\nDemonstrate applied understanding and knowledge in three of the five Skill Areas; may have limited understanding in the remaining two\n\n\nAdvDSP\nDemonstrate deep understanding and knowledge in Skill Area E and at least two other Skill Areas; display appropriate general knowledge in the remaining two",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-professional-competence.html#proficiency-levels",
+    "href": "chapters/07-professional-competence.html#proficiency-levels",
+    "title": "8  Professional Competence",
+    "section": "8.3 Proficiency Levels",
+    "text": "8.3 Proficiency Levels\nThe following table describes the levels of knowledge used to assess applicants:\n\n\n\n\n\n\n\n\nSkill Level\nProficiency\nExperience\n\n\n\n\nLimited\nLimited conceptual knowledge\nMinimal experience—read about it, some education and some practice with tools; some exposure in educational training setting\n\n\nGeneral\nGeneral conceptual knowledge; theoretical knowledge applied in education or training context\nCompleted formal education, including capstone project; has factual, procedural, and theoretical knowledge; can interpret and evaluate relevant information; is aware of different perspectives\n\n\nApplied\nApplied knowledge\nPerforms with supervision or mentoring\n\n\nDeep\nIn-depth knowledge\nProficient with state-of-the-art approaches without supervision; advanced practical and conceptual knowledge; understands different theoretical perspectives; can critically analyze complex information\n\n\nExpert\nExpert knowledge\nAdvances the state-of-the-art",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-professional-competence.html#ethics-and-efficacy",
+    "href": "chapters/07-professional-competence.html#ethics-and-efficacy",
+    "title": "8  Professional Competence",
+    "section": "8.4 Ethics and Efficacy",
+    "text": "8.4 Ethics and Efficacy\nIt is important that all professionals working within the field of Data Science have a clear understanding of the ethics which underpin the collection, management, use, and communication of the data and the results with which they work. It is equally important that a data scientist takes responsibility for the assurance of the models they build. Assurance covers both the efficacy of the application and the ethical nature of its design and implementation.\nThese attributes are not something that can, or should, be assessed as one standalone criterion. Rather, when completing this application, you should wherever possible include reference to your knowledge and working practices relating to the appropriate ethical considerations such as:\nData considerations:\n\nCollection, validity for use in the intended purpose, permission for usage, storage, security\n\nModel considerations:\n\nDevelopment, testing (e.g., fairness, bias, error rates), usage (how could the model and results be used for an unintended purpose?), and transparency\n\nCommunication considerations:\n\nExplanation of why the science is required; the results achieved and how misinterpretation of the results can be minimized\n\nLegal and regulatory:\n\nRelevant laws and permissions of usage for data (including legal rights of individuals, privacy, and anonymity)\n\nEfficacy considerations:\n\nQuality assurance of code and data\nValidation of model fit\nRobustness of the model and software implementation\nOngoing monitoring of model implementation\n\n\n\n\n\n\n\nNote\n\n\n\nThe list above is not exhaustive. It serves as a guide to help applicants show the DSSC they are aware of the professional expectations of those who work in this field. Applicants should include any other areas of ethical and efficacy considerations they feel are important within their area of expertise.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-professional-competence.html#confidentiality-and-conflicts-of-interest",
+    "href": "chapters/07-professional-competence.html#confidentiality-and-conflicts-of-interest",
+    "title": "8  Professional Competence",
+    "section": "8.5 Confidentiality and Conflicts of Interest",
+    "text": "8.5 Confidentiality and Conflicts of Interest\nApplicants may alert the DSSC that some members of the committee should not see their application materials due to confidentiality, conflict-of-interest, or other specified reasons. Members of the DSSC may also recuse themselves from reviewing certain applications for such reasons (see Section 17.1).",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-professional-development.html",
+    "href": "chapters/08-professional-development.html",
+    "title": "9  Professional Development",
+    "section": "",
+    "text": "Applicants must maintain an ongoing record of professional growth. See “Reflective Practice and Ongoing Development” in Skill Area E in Appendix 1.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Professional Development</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-application-form.html",
+    "href": "chapters/09-application-form.html",
+    "title": "10  Application Form",
+    "section": "",
+    "text": "ASA provides an online application form for DSP and AdvDSP applicants. The form consists of five sections:\n\nPersonal information\nAcademic/training history\nCompetency and responsibility\nWork experience\nContinuing professional development\n\n\n\n\n\n\n\nNote\n\n\n\nThe DSSC may request additional information from applicants, including but not limited to responses to additional questions and a personal statement. The DSSC may also wish to interview applicants before reaching a decision.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Application Form</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-dssc.html",
+    "href": "chapters/10-dssc.html",
+    "title": "11  Data Science Certification Committee (DSSC)",
+    "section": "",
+    "text": "11.1 Composition\nThe DSSC oversees the entire certification process, makes all decisions about certification, and provides constructive feedback to applicants who are not approved.\nThe DSSC consists of distinguished certified (or formerly certified, now retired) members of the ASA who are broadly representative of the membership. Members serve staggered three-year terms. DSSC members are appointed by the President-Elect or the Executive Director according to the usual committee appointment practices of the ASA. The chair of the committee is also appointed by the appropriate President-Elect or Executive Director to serve a three-year term, again in accordance with the ASA’s usual processes.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science Certification Committee (DSSC)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-dssc.html#responsibilities",
+    "href": "chapters/10-dssc.html#responsibilities",
+    "title": "11  Data Science Certification Committee (DSSC)",
+    "section": "11.2 Responsibilities",
+    "text": "11.2 Responsibilities\nThe DSSC:\n\nSets its own procedures for reviewing applications\nMakes recommendations to the Board of Directors regarding changes to the certification process\nAssists in the planning and provision of services to certified members",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science Certification Committee (DSSC)</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-appeals.html",
+    "href": "chapters/11-appeals.html",
+    "title": "12  Appeals of Negative Decisions",
+    "section": "",
+    "text": "12.1 Appeal Review Process\nApplicants who are denied certification will receive written feedback from the DSSC. Appeals of certification decisions must be made in writing to the chair of the DSSC within 30 days of notification of a negative decision regarding certification.\nThe Chair and two members (not involved in the original review) of the DSSC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.\nAs previously noted, unsuccessful applicants may reapply for certification.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Appeals of Negative Decisions</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-appeals.html#appeal-review-process",
+    "href": "chapters/11-appeals.html#appeal-review-process",
+    "title": "12  Appeals of Negative Decisions",
+    "section": "",
+    "text": "Important\n\n\n\nNo new or additional material may be submitted for the appeal. The decision on appeal is final, and may not be appealed again to the DSSC, nor may any other entity within the ASA hear an appeal of a certification decision.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Appeals of Negative Decisions</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-maintenance.html",
+    "href": "chapters/12-maintenance.html",
+    "title": "13  Maintenance of Certification",
+    "section": "",
+    "text": "13.1 Fee Lapses\nMembers maintain their certified status through annual payment of membership dues and certification fees to the ASA. (See ?sec-membership for issues related to lapse of ASA membership. See Section 19.1 for issues related to effects of lapses on usage of the DSP or AdvDSP designations.)\nFailure to pay certification fees are grounds for loss of certified status. Exceptions may be granted by the Executive Director under special circumstances (for example, a prolonged illness).\nCertified members may choose to terminate certification at any time, though membership dues and certification fees are non-refundable.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Maintenance of Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-maintenance.html#fee-lapses",
+    "href": "chapters/12-maintenance.html#fee-lapses",
+    "title": "13  Maintenance of Certification",
+    "section": "",
+    "text": "Lapse Duration\nConsequence\n\n\n\n\nLess than 6 months\nMay be automatically reinstated through payment of lapsed fees\n\n\n6 months or more\nPermanent lapse—individual must reapply for certification",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Maintenance of Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-renewal.html",
+    "href": "chapters/13-renewal.html",
+    "title": "14  Renewal of Certification",
+    "section": "",
+    "text": "14.1 Certification Period\nCertification covers a five-year period after which renewal will be required to maintain certified status.\nCertified status will begin on the date of approval by the DSSC, and this five-year period will end five years from the beginning of the certified member’s next full membership year at the time of certification.\nLife members’ five-year certification period ends five years from the date of initial certification.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Renewal of Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-renewal.html#certification-period",
+    "href": "chapters/13-renewal.html#certification-period",
+    "title": "14  Renewal of Certification",
+    "section": "",
+    "text": "Note\n\n\n\nExample: Jane Doe has a membership that is annually renewable on 06/30/25. She is certified on 04/01/25. Her five-year period will end 06/30/30.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Renewal of Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/13-renewal.html#renewal-requirements",
+    "href": "chapters/13-renewal.html#renewal-requirements",
+    "title": "14  Renewal of Certification",
+    "section": "14.2 Renewal Requirements",
+    "text": "14.2 Renewal Requirements\nASA may request information from the certified member after the five-year period to indicate that the member is still actively practicing data science.\nThe DSSC will take into account temporary interruptions to employment including, but not limited to, those for illness and parental leave.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Renewal of Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/14-other-certifications.html",
+    "href": "chapters/14-other-certifications.html",
+    "title": "15  Certification from Other Statistical Societies",
+    "section": "",
+    "text": "Members of the ASA who are certified by other member organizations of the Alliance for Data Science Professionals and are in good standing with their member organization will automatically become DSP or AdvDSP certified members of the ASA upon written request with:\n\nProof of certified status\nAgreement to maintain their certification in the other society\nAgreement to abide by the ASA’s Ethical Guidelines for Statistical Practice\nPayment of ASA dues and certification fees",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Certification from Other Statistical Societies</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/15-disciplinary.html",
+    "href": "chapters/15-disciplinary.html",
+    "title": "16  Disciplinary Matters",
+    "section": "",
+    "text": "16.1 Grounds for Revocation\nCertification may be revoked for a specified period by the ASA Board of Directors if, in its judgment, a certified data scientist has:",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/15-disciplinary.html#sec-disciplinary",
+    "href": "chapters/15-disciplinary.html#sec-disciplinary",
+    "title": "16  Disciplinary Matters",
+    "section": "",
+    "text": "Refused or neglected to comply with the provisions of ASA membership\nWillfully acted in a manner prejudicial to the interests of the ASA or the data science profession, including non-compliance with the ASA’s Ethical Guidelines for Statistical Practices\nSupplied incorrect information in an application for certification or renewal of certification",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/15-disciplinary.html#complaint-process",
+    "href": "chapters/15-disciplinary.html#complaint-process",
+    "title": "16  Disciplinary Matters",
+    "section": "16.2 Complaint Process",
+    "text": "16.2 Complaint Process\nWhen the ASA receives a formal complaint against a certified data scientist regarding one or more of the grounds for revocation:\n\nThe individual about whom the complaint was filed shall be notified of the complaint and given the opportunity to respond\nThe DSSC will conduct a preliminary investigation and may exonerate the individual based on this investigation\nIf further consideration is needed, the ASA Board of Directors, after seeking legal advice, will decide whether the individual should be exonerated, receive advice or warning regarding specified violations, or have their certification revoked\nThe Board will notify the individual of its decision within 14 days of its decision",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/15-disciplinary.html#consequences-of-revocation",
+    "href": "chapters/15-disciplinary.html#consequences-of-revocation",
+    "title": "16  Disciplinary Matters",
+    "section": "16.3 Consequences of Revocation",
+    "text": "16.3 Consequences of Revocation\nRevocation of certification results in:\n\nRemoval of the individual’s name from the list of certified members (see Section 18.1)\nLoss of certification fees\nNo other public report of such action",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/15-disciplinary.html#appeal-of-revocation",
+    "href": "chapters/15-disciplinary.html#appeal-of-revocation",
+    "title": "16  Disciplinary Matters",
+    "section": "16.4 Appeal of Revocation",
+    "text": "16.4 Appeal of Revocation\nAn individual whose certification has been revoked may appeal through written notice to the Executive Director of the ASA within 30 days of receipt of notification of revocation. The Executive Committee of the ASA Board of Directors will review the individual’s appeal and will determine whether the revocation should be upheld or overturned.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/16-conflict-of-interest.html",
+    "href": "chapters/16-conflict-of-interest.html",
+    "title": "17  Conflict of Interest",
+    "section": "",
+    "text": "17.1 DSSC Member Obligations\nA member of the DSSC who has a conflict of interest with respect to any individual with an action (“case”) before the committee shall declare that conflict of interest and be absent from the deliberations related to the case.\nConflicts of interest include (but are not limited to):",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Conflict of Interest</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/16-conflict-of-interest.html#sec-conflict-of-interest",
+    "href": "chapters/16-conflict-of-interest.html#sec-conflict-of-interest",
+    "title": "17  Conflict of Interest",
+    "section": "",
+    "text": "The committee member and the individual are colleagues, having worked or conducted research together within the last six years\nThe committee member has supervised the individual in a graduate program or as an employee\nThe committee member has written a letter of reference for the individual in the previous six years",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Conflict of Interest</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/16-conflict-of-interest.html#applicant-rights",
+    "href": "chapters/16-conflict-of-interest.html#applicant-rights",
+    "title": "17  Conflict of Interest",
+    "section": "17.2 Applicant Rights",
+    "text": "17.2 Applicant Rights\nAn applicant may indicate the names of up to three committee members who the applicant believes may have a conflict of interest in reviewing their application. DSSC members thus identified will not participate in the review of that application.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Conflict of Interest</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/17-public-information.html",
+    "href": "chapters/17-public-information.html",
+    "title": "18  Public Information about Certification",
+    "section": "",
+    "text": "18.1 Public Listing of Certified Members\nThe ASA maintains a public list (e.g., a web page) of certified data scientists. Inclusion in the list does not represent an endorsement by the ASA. The list may include:",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Public Information about Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/17-public-information.html#sec-public-information",
+    "href": "chapters/17-public-information.html#sec-public-information",
+    "title": "18  Public Information about Certification",
+    "section": "",
+    "text": "The member’s name and contact information\nOptionally, a link to a personal website where the member may provide additional information about their experience and expertise\n\n\n\n\n\n\n\nImportant\n\n\n\nIf a member’s certification lapses or is revoked, the member’s information shall be removed from the public listing within 90 days.",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Public Information about Certification</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/18-usage-of-designation.html",
+    "href": "chapters/18-usage-of-designation.html",
+    "title": "19  Member’s Usage of Designation",
+    "section": "",
+    "text": "19.1 Permitted Usage\nA certified member may declare themselves certified by the ASA as a:\nas appropriate according to their certified status.",
+    "crumbs": [
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Member's Usage of Designation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/18-usage-of-designation.html#sec-usage-of-designation",
+    "href": "chapters/18-usage-of-designation.html#sec-usage-of-designation",
+    "title": "19  Member’s Usage of Designation",
+    "section": "",
+    "text": "“Certified Data Science Professional (DSP)” or\n“Certified Advanced Data Science Professional (AdvDSP)”\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThe member may not state that the designation is an endorsement by the ASA.\nIf a member’s certification lapses or is revoked, the member must cease usage of the designation within 90 days.",
+    "crumbs": [
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Member's Usage of Designation</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/19-dissolution.html",
+    "href": "chapters/19-dissolution.html",
+    "title": "20  Dissolution of Certification Committee and Program",
+    "section": "",
+    "text": "The Board of Directors of the American Statistical Association may, upon six months’ notice, dissolve the DSSC and cease awarding certification. In such circumstance, certified members may continue to use the DSP or AdvDSP designation through the period for which certification fees have been paid.",
+    "crumbs": [
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Dissolution of Certification Committee and Program</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appendix-1.html",
+    "href": "chapters/appendix-1.html",
+    "title": "21  Appendix 1: Extended Version of the Standard",
+    "section": "",
+    "text": "21.1 Skill Area A: Data Privacy and Stewardship\nThe following table provides the full evidential requirements for each Skill Area (A–E). These standards are defined by the Alliance for Data Science Professionals.\nThis skill relates to the security and protection of data, including design, creation, storage, distribution, and associated risk.",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Appendix 1: Extended Version of the Standard</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appendix-1.html#skill-area-a",
+    "href": "chapters/appendix-1.html#skill-area-a",
+    "title": "21  Appendix 1: Extended Version of the Standard",
+    "section": "",
+    "text": "A.1 — Ensuring the Protection of Personal and Sensitive Data\n\nAssess risks and enact data protection policies and procedures.\nEnsure safe and secure management of sensitive data, models, and infrastructures.\nApply appropriate data controls, such as encryption, (pseudo)anonymization, and synthetic data.\nRisk management around environment and infrastructure.\n\n\n\nA.2 — Managing Loss of Sensitive Data\n\nAct with integrity, giving due regard to legal and regulatory requirements.\nBe aware of the actions that should be taken to respond to potential data loss in line with organizational, legal, and regulatory procedures.\n\n\n\nA.3 — Data Stewardship and Standards\n\nIncorporate the FAIR Guiding Principles for scientific data management and stewardship into practices, where appropriate and practicable.\nIdentify opportunities for efficient and creative reuse of data.\nUnderstand the relationship between technical standards and regulation/governance, and their benefits for interoperability and knowledge sharing.",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Appendix 1: Extended Version of the Standard</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appendix-1.html#skill-area-b",
+    "href": "chapters/appendix-1.html#skill-area-b",
+    "title": "21  Appendix 1: Extended Version of the Standard",
+    "section": "21.2 Skill Area B: Definition, Acquisition, Engineering, Architecture, Storage and Curation",
+    "text": "21.2 Skill Area B: Definition, Acquisition, Engineering, Architecture, Storage and Curation\nThis skill relates to the collection, manipulation, and secure storage of data, the application of data management, and analytical techniques.\n\nB.1 — Data Collection and Management\n\nSource and access data appropriate for the problem.\nCritically analyze the availability of appropriate data and resources to meet project requirements.\nEnsure data provenance processes are followed.\nIdentify data characteristics (volume, velocity, and variety).\nIdentify infrastructure requirements for data storage and analysis.\nShow familiarity or experience with tabular and non-tabular data (e.g., unstructured and streaming data).\n\n\n\nB.2 — Data Engineering\n\nSource and access data appropriate for the problem.\nConstruct data sets, potentially drawing from multiple disparate sources using data linkage.\nPerform data profiling and characterization to understand the surface properties of the data.\nHandle missing data, through principled inclusion/exclusion criteria and imputation methods.\nTake a systematic approach to data curation and the application of data quality controls.\nIdentify the most appropriate solutions (e.g., cloud vs. on-premise) in response to business and project needs.\n\n\n\nB.3 — Deployment\n\nPlan the deployment of data products with their end-users.\nDevelop monitoring and maintenance processes.\nDeliver secure, stable, and scalable data products to meet the needs of the organization (e.g., Application Programming Interfaces (APIs), derivative datasets, dashboards, reports) and do so according to modern software development best practices.\nDesign and deliver data products that meet appropriate accessibility standards for their users.",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Appendix 1: Extended Version of the Standard</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appendix-1.html#skill-area-c",
+    "href": "chapters/appendix-1.html#skill-area-c",
+    "title": "21  Appendix 1: Extended Version of the Standard",
+    "section": "21.3 Skill Area C: Problem Definition and Communication with Stakeholders",
+    "text": "21.3 Skill Area C: Problem Definition and Communication with Stakeholders\nThis skill is about engaging stakeholders, demonstrating the ability to clearly define a problem, and agreeing on solutions.\n\nC.1 — Problem Definition\n\nIdentify and elicit project requirements.\nDetermine success criteria and frame these in the context of the business.\nClearly articulate the problem statement.\nIdentify and critically evaluate assumptions.\nRecognize and quantify biases and identify solutions to manage and mitigate these.\nAssess risk.\nDemonstrate sector/domain knowledge and knowledge of how data science can deliver value to these sectors/domains.\n\n\n\nC.2 — Relationship Management\n\nCommunicate in an effective manner for diverse audiences, including technical colleagues, subject matter experts, and leadership.\nEffectively manage the expectations of diverse stakeholders with conflicting priorities to mediate equitable solutions.\nUse relevant communication techniques (written, oral, or visual), appropriate for the audience.\nBuild appropriate and effective business relationships.\nShow experience in human factors considerations with respect to data-driven solutions.",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Appendix 1: Extended Version of the Standard</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appendix-1.html#skill-area-d",
+    "href": "chapters/appendix-1.html#skill-area-d",
+    "title": "21  Appendix 1: Extended Version of the Standard",
+    "section": "21.4 Skill Area D: Problem Solving, Analysis, Statistical Modelling, Visualisation",
+    "text": "21.4 Skill Area D: Problem Solving, Analysis, Statistical Modelling, Visualisation\nThis skill relates to the identification and presentation of solutions using a range of methods, tools, and techniques, demonstrating the ability to analyze a problem and define and present options.\n\nD.1 — Identifying and Applying Technical Solutions and Project Management Approaches\n\nIdentify viable solutions based on requirements and data available.\nIdentify and provide guidance to technical and non-technical stakeholders on the most appropriate solution.\nApply appropriate technical and project management methodologies appropriate for the organization and project.\n\n\n\nD.2 — Data Preparation and Feature Modelling\n\nIdentify appropriate solutions, including statistical and machine learning approaches, and demonstrate an understanding of the assumptions, strengths, and weaknesses of the selected approaches.\nIdentify and evaluate appropriate evaluation metrics, including computational performance and accuracy.\nManipulate data with due regard for differences in characteristics.\nCreation and evaluation of new data features.\n\n\n\nD.3 — Data Analysis and Model Building\n\nApply appropriate solutions, including statistical and machine learning approaches. Demonstrate competence in a modern programming language.\nUse appropriate analysis platforms and tools.\nAdopt a systematic approach to exploratory data analysis to embrace and manage ambiguity and uncertainty.\nCritically analyze data and analytical results.\nAdopt appropriate methods to visualize data and communicate complex findings.",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Appendix 1: Extended Version of the Standard</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appendix-1.html#skill-area-e",
+    "href": "chapters/appendix-1.html#skill-area-e",
+    "title": "21  Appendix 1: Extended Version of the Standard",
+    "section": "21.5 Skill Area E: Evaluation and Reflection",
+    "text": "21.5 Skill Area E: Evaluation and Reflection\nThis skill is about reflecting on performance and outcomes, identifying development needs, and applying important principles associated with ethics and sustainability. Note: when completing your evidence for this Skill Area you can refer to evidence provided in Skill Areas A–D, together with ensuring that ethical evaluation is reflected throughout Skill Areas A–D.\n\nE.1 — Project Evaluation\n\nOngoing monitoring of project performance and outcomes.\nIdentify and feed forward lessons learned.\nParticipate in and lead collaborative project evaluations, e.g., retrospectives.\n\n\n\nE.2 — Ethical Behavior\n\nIdentify and manage the risks of erroneous and biased data.\nAct with integrity with respect to legal and regulatory requirements.\nUphold principles of ethical and safe use of data and AI technologies.\nImplement data use procedures to ensure sensitive data is only used for its agreed purpose.\nImplement data retention strategies in line with regulatory and legal requirements.\n\n\n\nE.3 — Sustainability and Best Practices\n\nEvidence of incorporating the principles of open science and/or reproducible research within the organization, and perhaps beyond.\nCompetence in programmatic approaches to undertaking data science work.\nApply the scientific method in delivering solutions.\nEnsure high technical standards, in line with software development best practices; for example, software testing, version control, Continuous Integration and Continuous Delivery.\nApply automation to promote reproducibility of analyses.\n\n\n\nE.4 — Reflective Practice and Ongoing Development\n\nLearn from experience through self-assessment of one’s own responses to practice situations.\nIdentify learning opportunities to maintain knowledge and skills in the relevant area of data science.\nTake ownership of ongoing professional development.\nContribute to knowledge-sharing across their organization and/or the wider community.\nContribute to the management and empowerment of the broader team.\nEngage with the latest developments across industry and academia and incorporate these into solutions.",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Appendix 1: Extended Version of the Standard</span>"
+    ]
+  }
+]

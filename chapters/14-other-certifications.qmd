@@ -1,0 +1,10 @@
+---
+title: "Certification from Other Statistical Societies"
+---
+
+Members of the ASA who are certified by other member organizations of the Alliance for Data Science Professionals and are in good standing with their member organization will **automatically become DSP or AdvDSP certified members of the ASA** upon written request with:
+
+1. Proof of certified status
+2. Agreement to maintain their certification in the other society
+3. Agreement to abide by the ASA's Ethical Guidelines for Statistical Practice
+4. Payment of ASA dues and certification fees

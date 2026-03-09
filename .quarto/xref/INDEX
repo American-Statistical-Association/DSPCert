@@ -1,0 +1,65 @@
+{
+  "index.qmd": {
+    "index.html": "823f348a"
+  },
+  "chapters/01-introduction.qmd": {
+    "01-introduction.html": "282f410c"
+  },
+  "chapters/02-level-distinctions.qmd": {
+    "02-level-distinctions.html": "f3f30212"
+  },
+  "chapters/03-membership.qmd": {
+    "03-membership.html": "0ef87af3"
+  },
+  "chapters/04-ethical-standards.qmd": {
+    "04-ethical-standards.html": "abeecc7f"
+  },
+  "chapters/05-educational-requirements.qmd": {
+    "05-educational-requirements.html": "94ab134f"
+  },
+  "chapters/06-experience.qmd": {
+    "06-experience.html": "9a49a3e1"
+  },
+  "chapters/07-professional-competence.qmd": {
+    "07-professional-competence.html": "f32ec987"
+  },
+  "chapters/08-professional-development.qmd": {
+    "08-professional-development.html": "3f8ea14e"
+  },
+  "chapters/09-application-form.qmd": {
+    "09-application-form.html": "348e7f35"
+  },
+  "chapters/10-dssc.qmd": {
+    "10-dssc.html": "ccabebef"
+  },
+  "chapters/11-appeals.qmd": {
+    "11-appeals.html": "f8f6dd24"
+  },
+  "chapters/12-maintenance.qmd": {
+    "12-maintenance.html": "98fc0a1e"
+  },
+  "chapters/13-renewal.qmd": {
+    "13-renewal.html": "6247496e"
+  },
+  "chapters/14-other-certifications.qmd": {
+    "14-other-certifications.html": "a645d88a"
+  },
+  "chapters/15-disciplinary.qmd": {
+    "15-disciplinary.html": "13acc8de"
+  },
+  "chapters/16-conflict-of-interest.qmd": {
+    "16-conflict-of-interest.html": "48c7a9d8"
+  },
+  "chapters/17-public-information.qmd": {
+    "17-public-information.html": "51dff0cc"
+  },
+  "chapters/18-usage-of-designation.qmd": {
+    "18-usage-of-designation.html": "0219b9a0"
+  },
+  "chapters/19-dissolution.qmd": {
+    "19-dissolution.html": "ed1e0f17"
+  },
+  "chapters/appendix-1.qmd": {
+    "appendix-1.html": "25955d75"
+  }
+}

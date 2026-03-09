@@ -1,0 +1,9 @@
+---
+title: "Educational Requirements"
+---
+
+Applicants for DSP or AdvDSP status must hold at least a **bachelor's degree** with evidence of formal training in data science and statistics as part of their degree or achieved by other methods. Applicants will normally be asked to submit a transcript as proof of degree.
+
+## International Degrees
+
+Applicants possessing their degrees from a non-US institution may be asked to submit the relevant university transcript to provide the DSSC with information to help it understand the equivalence to US advanced degrees. The ASA reserves the right to use an independent source to judge the equivalence of such degrees and reserves the right to charge the applicant for those costs (after duly advising the applicant of the cost).

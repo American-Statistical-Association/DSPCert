@@ -1,0 +1,18 @@
+---
+title: "Member's Usage of Designation"
+---
+
+## Permitted Usage {#sec-usage-of-designation}
+
+A certified member may declare themselves certified by the ASA as a:
+
+- **"Certified Data Science Professional (DSP)"** or
+- **"Certified Advanced Data Science Professional (AdvDSP)"**
+
+as appropriate according to their certified status.
+
+::: {.callout-important}
+The member may **not** state that the designation is an endorsement by the ASA.
+
+If a member's certification lapses or is revoked, the member must **cease usage of the designation within 90 days**.
+:::

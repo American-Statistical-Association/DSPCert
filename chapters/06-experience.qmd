@@ -1,0 +1,10 @@
+---
+title: "Experience"
+---
+
+Applicants must have documented experience in the employment of appropriate data science concepts and techniques (see @sec-professional-competence).
+
+| Certification Level | Minimum Experience Required |
+|---|---|
+| **DSP** | 2 years |
+| **AdvDSP** | 5 years |

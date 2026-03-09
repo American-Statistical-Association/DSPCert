@@ -1,0 +1,16 @@
+---
+title: "Maintenance of Certification"
+---
+
+Members maintain their certified status through annual payment of membership dues and certification fees to the ASA. (See @sec-membership for issues related to lapse of ASA membership. See @sec-usage-of-designation for issues related to effects of lapses on usage of the DSP or AdvDSP designations.)
+
+## Fee Lapses
+
+| Lapse Duration | Consequence |
+|---|---|
+| Less than 6 months | May be automatically reinstated through payment of lapsed fees |
+| 6 months or more | **Permanent lapse**—individual must reapply for certification |
+
+Failure to pay certification fees are grounds for loss of certified status. Exceptions may be granted by the Executive Director under special circumstances (for example, a prolonged illness).
+
+Certified members may choose to terminate certification at any time, though membership dues and certification fees are non-refundable.
