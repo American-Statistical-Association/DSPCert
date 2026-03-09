@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: docs
+  render:
+    - "*.qmd"
 
 book:
   title: "Guidelines for Voluntary Professional Data Science Certification"
