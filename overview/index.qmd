@@ -4,7 +4,7 @@ format:
   html:
     page-layout: full
     toc: false
-    theme: [flatly, overview.scss]
+    theme: [flatly, index.scss]
 ---
 
 ```{=html}
