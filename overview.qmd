@@ -5,6 +5,7 @@ format:
     page-layout: full
     toc: false
     theme: [flatly, overview.scss]
+    output-file: docs/overview.html
 ---
 
 ```{=html}
