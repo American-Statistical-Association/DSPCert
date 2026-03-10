@@ -2,7 +2,9 @@ project:
   type: book
   output-dir: docs
   render:
-    - "*.qmd"
+    - "index.qmd"
+    - "chapters/*.qmd"
+    - "overview.qmd"
 
 book:
   title: "Guidelines for Voluntary Professional Data Science Certification"
