@@ -2,8 +2,10 @@
 title: "ASA Membership"
 ---
 
+## Membership Requirements {#sec-membership}
+
 Applicants for DSP or AdvDSP status must be members of the ASA to apply for certification and must maintain membership to keep it. Applicants must be actively involved in the practice of data science (see @sec-professional-competence).
 
 ::: {.callout-important}
-If ASA membership lapses, so does DSP or AdvDSP status. Article 1, part 4, of the ASA Bylaws sets the rules for membership lapses and these rules are hereby incorporated herein by reference and made a part of this document as if set forth in full.
+If ASA membership lapses, so does DSP or AdvDSP status. Article 1, Part 4, of the ASA bylaws sets the rules for membership lapses, and these rules are hereby incorporated herein by reference and made a part of this document as if set forth in full.
 :::

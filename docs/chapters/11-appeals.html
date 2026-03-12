@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.9.29">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>12&nbsp; Appeals of Negative Decisions – Guidelines for Voluntary Professional Data Science Certification</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-59898bd1c6b9d2bb783127feaa000c76.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-4928aee9384e66cb359dd8efc1d1e04a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-ee57072c53aa181a0a865fd06db9cd33.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e4472d937102777e488fccd906b87773.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,7 +101,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../ASA-logo.png" alt="American Statistical Association" class="navbar-logo">
+    <img src="../ASA-logo.png" alt="American Statistical Association" class="navbar-logo light-content">
+    <img src="../ASA-logo.png" alt="American Statistical Association" class="navbar-logo dark-content">
     </a>
   </div>
         <div class="quarto-navbar-tools tools-end">
@@ -186,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/10-dssc.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science Certification Committee (DSSC)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science Certification Committee (DSCC)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -285,10 +289,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Applicants who are denied certification will receive written feedback from the DSSC. Appeals of certification decisions must be made <strong>in writing</strong> to the chair of the DSSC <strong>within 30 days</strong> of notification of a negative decision regarding certification.</p>
+<p>Applicants who are denied certification will receive written feedback from the DSCC. Appeals of certification decisions must be made <strong>in writing</strong> to the chair of the DSCC <strong>within 30 days</strong> of notification of a negative decision regarding certification.</p>
 <section id="appeal-review-process" class="level2" data-number="12.1">
 <h2 data-number="12.1" class="anchored" data-anchor-id="appeal-review-process"><span class="header-section-number">12.1</span> Appeal Review Process</h2>
-<p>The Chair and two members (not involved in the original review) of the DSSC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.</p>
+<p>The chair and two members (not involved in the original review) of the DSCC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -299,7 +303,7 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>No new or additional material may be submitted for the appeal. The decision on appeal is <strong>final</strong>, and may not be appealed again to the DSSC, nor may any other entity within the ASA hear an appeal of a certification decision.</p>
+<p>No new or additional material may be submitted for the appeal. The decision on appeal is <strong>final</strong>, and may not be appealed again to the DSCC, nor may any other entity within the ASA hear an appeal of a certification decision.</p>
 </div>
 </div>
 <p>As previously noted, unsuccessful applicants may reapply for certification.</p>
@@ -359,13 +363,14 @@ Important
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -709,8 +714,8 @@ Important
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../chapters/10-dssc.html" class="pagination-link" aria-label="Data Science Certification Committee (DSSC)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science Certification Committee (DSSC)</span></span>
+      <a href="../chapters/10-dssc.html" class="pagination-link" aria-label="Data Science Certification Committee (DSCC)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science Certification Committee (DSCC)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

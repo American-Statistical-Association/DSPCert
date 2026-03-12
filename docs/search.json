@@ -14,7 +14,7 @@
     "href": "index.html#about-this-document",
     "title": "Guidelines for Voluntary Professional Data Science Certification",
     "section": "",
-    "text": "Credential\nFull Name\nExperience Required\n\n\n\n\nDSP\nData Science Professional\n2 years\n\n\nAdvDSP\nAdvanced Data Science Professional\n5 years\n\n\n\n\n\n\n\n\n\n\nAlliance for Data Science Professionals\n\n\n\nDSP and AdvDSP status is awarded based on criteria established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. If any contradiction exists between the requirements listed in this document and those of the Alliance, the Alliance’s requirements prevail.",
+    "text": "Credential\nFull Name\nExperience Required\n\n\n\n\nDSP\nData Science Professional\n2 years\n\n\nAdvDSP\nAdvanced Data Science Professional\n5 years\n\n\n\n\n\n\n\n\n\n\nNoteAlliance for Data Science Professionals\n\n\n\nDSP and AdvDSP status is awarded based on criteria established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. If any contradiction exists between the requirements listed in this document and those of the Alliance, the Alliance’s requirements prevail.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Guidelines for Voluntary Professional Data Science Certification</span>"
     ]
@@ -34,7 +34,7 @@
     "href": "chapters/01-introduction.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "2.1 Application Process Overview\nThis document, approved by the ASA Board of Directors on September 30, 2024, provides the framework for voluntary professional data science certification. Additional details for applicants are found on the data science certification website.\nData Science Professional (DSP) and Advanced Data Science Professional (AdvDSP) statuses are offered by the American Statistical Association as a service to those of its members who find added value in a voluntarily obtained credential that provides recognition by peers that they have appropriate training and knowledge regarding the areas set forth in Section 8.1 and Appendix 1, including but not limited to the management, protection, engineering, stewardship, and analysis of data and the ethics of conducting those activities.\nThe interconnection of statistics, data science, and artificial intelligence is concisely explained in the 2024 ASA statement on this topic.\nDSP or AdvDSP status is awarded based on criteria that have been established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. In brief, the criteria cover the education, experience, and demonstrated competence of the candidate. Thus, ASA data science certification is a portfolio-based rather than an examination-based designation.\nIf there should be any contradiction between the requirements for DSP or AdvDSP status listed in this document and those of the Alliance for Data Science Professionals, the latter prevails.\nApplications are considered in confidence by the ASA’s Data Science Certification Committee (DSCC). To apply, applicants must:\nApplication materials will be submitted electronically to the ASA and may be submitted at any time. Subgroups of the DSSC will review applications. However, applications will not be reviewed until they are complete—that is, until all required materials have been submitted and the non-refundable application fee has been received.\nUnsuccessful applicants will receive written feedback from the DSSC and may reapply. Successful applicants will be assessed an annual maintenance fee.",
+    "text": "2.1 Application Process Overview\nThis document, approved by the ASA Board of Directors on September 30, 2024, provides the framework for voluntary professional data science certification. Additional details for applicants are found on the data science certification website.\nData Science Professional (DSP) and Advanced Data Science Professional (AdvDSP) statuses are offered by the American Statistical Association as a service to those of its members who find added value in a voluntarily obtained credential that provides recognition by peers that they have appropriate training and knowledge regarding the areas set forth in Section 8.1 and Appendix 1, including but not limited to the management, protection, engineering, stewardship, and analysis of data and the ethics of conducting those activities.\nThe interconnection of statistics, data science, and artificial intelligence is concisely explained in the 2024 ASA statement on this topic.\nDSP or AdvDSP status is awarded based on criteria that have been established by the Alliance of Data Science Professionals, a UK-based organization of which ASA is a member. In brief, the criteria cover the education, experience, and demonstrated competence of the candidate. Thus, ASA data science certification is a portfolio-based rather than an examination-based designation.\nIf there should be any contradiction between the requirements for DSP or AdvDSP status listed in this document and those of the Alliance for Data Science Professionals, the latter prevails.\nApplications are considered in confidence by the ASA’s Data Science Certification Committee (DSCC). To apply, applicants must:\nApplication materials will be submitted electronically to the ASA and may be submitted at any time. Subgroups of the DSCC will review applications. However, applications will not be reviewed until they are complete—that is, until all required materials have been submitted and the non-refundable application fee has been received.\nUnsuccessful applicants will receive written feedback from the DSCC and may reapply. Successful applicants will be assessed an annual maintenance fee.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "chapters/02-level-distinctions.html#dsp-requirements",
     "title": "3  Level Distinctions",
     "section": "",
-    "text": "Have responsibility for activities of a section or team\nHave decision-making authority at the section or team level\nAct as an advisor/consultant at a departmental level\nUnderstand how their individual practice impacts other departments",
+    "text": "Have responsibility for activities of a section or team\nHave decision-making authority at the section or team level\nAct as an advisor/consultant at a departmental level\nUnderstand how their individual practice affects other departments",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Level Distinctions</span>"
     ]
@@ -84,7 +84,7 @@
     "href": "chapters/02-level-distinctions.html#advdsp-requirements",
     "title": "3  Level Distinctions",
     "section": "3.2 AdvDSP Requirements",
-    "text": "3.2 AdvDSP Requirements\nApplicants for AdvDSP status must demonstrate that they are fully accountable for their own work and that of others, including ethical considerations, and undertake a range of complex work activities that have a significant impact. They should also demonstrate some of the following:\n\nHave responsibility for a significant function across the organization\nHave significant decision-making authority within their given area of expertise\nAct as an advisor/consultant at a strategic level\nConsider the impact across the business and, more widely, of actions undertaken based on their decisions",
+    "text": "3.2 AdvDSP Requirements\nApplicants for AdvDSP status must demonstrate that they are fully accountable for their own work and that of others, including ethical considerations, and undertake a range of complex work activities that have a significant impact. They should also demonstrate some of the following:\n\nHave responsibility for a significant function across the organization\nHave significant decision-making authority within their given area of expertise\nAct as an adviser/consultant at a strategic level\nConsider the impact across the business and, more widely, of actions undertaken based on their decisions",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Level Distinctions</span>"
     ]
@@ -94,7 +94,17 @@
     "href": "chapters/03-membership.html",
     "title": "4  ASA Membership",
     "section": "",
-    "text": "Applicants for DSP or AdvDSP status must be members of the ASA to apply for certification and must maintain membership to keep it. Applicants must be actively involved in the practice of data science (see Section 8.1).\n\n\n\n\n\n\nImportant\n\n\n\nIf ASA membership lapses, so does DSP or AdvDSP status. Article 1, part 4, of the ASA Bylaws sets the rules for membership lapses and these rules are hereby incorporated herein by reference and made a part of this document as if set forth in full.",
+    "text": "4.1 Membership Requirements\nApplicants for DSP or AdvDSP status must be members of the ASA to apply for certification and must maintain membership to keep it. Applicants must be actively involved in the practice of data science (see Section 8.1).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>ASA Membership</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-membership.html#sec-membership",
+    "href": "chapters/03-membership.html#sec-membership",
+    "title": "4  ASA Membership",
+    "section": "",
+    "text": "Important\n\n\n\nIf ASA membership lapses, so does DSP or AdvDSP status. Article 1, Part 4, of the ASA bylaws sets the rules for membership lapses, and these rules are hereby incorporated herein by reference and made a part of this document as if set forth in full.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>ASA Membership</span>"
     ]
@@ -104,7 +114,7 @@
     "href": "chapters/04-ethical-standards.html",
     "title": "5  Ethical Standards",
     "section": "",
-    "text": "Applicants for DSP or AdvDSP status must agree to uphold the ASA’s Ethical Guidelines for Statistical Practice. (In addition, see Section 8.1 regarding ethics.)\nCertified statisticians, including those certified with DSP or AdvDSP status, who do not, in the judgment of the DSSC, uphold these ethical guidelines may be subject to disciplinary action (see Section 16.1).",
+    "text": "Applicants for DSP or AdvDSP status must agree to uphold the ASA’s Ethical Guidelines for Statistical Practice. (In addition, see Section 8.1 regarding ethics.)\nCertified statisticians, including those certified with DSP or AdvDSP status, who do not, in the judgment of the DSCC, uphold these ethical guidelines may be subject to disciplinary action (see Section 16.1).",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ethical Standards</span>"
     ]
@@ -114,7 +124,7 @@
     "href": "chapters/05-educational-requirements.html",
     "title": "6  Educational Requirements",
     "section": "",
-    "text": "6.1 International Degrees\nApplicants for DSP or AdvDSP status must hold at least a bachelor’s degree with evidence of formal training in data science and statistics as part of their degree or achieved by other methods. Applicants will normally be asked to submit a transcript as proof of degree.\nApplicants possessing their degrees from a non-US institution may be asked to submit the relevant university transcript to provide the DSSC with information to help it understand the equivalence to US advanced degrees. The ASA reserves the right to use an independent source to judge the equivalence of such degrees and reserves the right to charge the applicant for those costs (after duly advising the applicant of the cost).",
+    "text": "6.1 International Degrees\nApplicants for DSP or AdvDSP status must hold at least a bachelor’s degree with evidence of formal training in data science and statistics as part of their degree or achieved by other methods. Applicants will normally be asked to submit a transcript as proof of degree.\nApplicants possessing their degrees from a non-US institution may be asked to submit the relevant university transcript to provide the DSCC with information to help it understand the equivalence to US advanced degrees. The ASA reserves the right to use an independent source to judge the equivalence of such degrees and reserves the right to charge the applicant for those costs (after duly advising the applicant of the cost).",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Educational Requirements</span>"
     ]
@@ -134,7 +144,7 @@
     "href": "chapters/07-professional-competence.html",
     "title": "8  Professional Competence",
     "section": "",
-    "text": "8.1 Skill Areas\nThe Alliance for Data Science Professionals defines the standards for data science practitioners in a table outlining five Skill Areas (A–E), with ethics being a sixth category included in each of the other five. See Appendix 1 for details.",
+    "text": "8.1 Skill Areas\nThe Alliance for Data Science Professionals defines the standards for data science practitioners in a table outlining five skill areas (A–E), with ethics being a sixth category included in each of the other five. See Appendix 1 for details.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
     ]
@@ -144,7 +154,7 @@
     "href": "chapters/07-professional-competence.html#breadth-of-knowledge-requirements",
     "title": "8  Professional Competence",
     "section": "8.2 Breadth of Knowledge Requirements",
-    "text": "8.2 Breadth of Knowledge Requirements\n\n\n\n\n\n\n\nCertification\nRequirement\n\n\n\n\nDSP\nDemonstrate applied understanding and knowledge in three of the five Skill Areas; may have limited understanding in the remaining two\n\n\nAdvDSP\nDemonstrate deep understanding and knowledge in Skill Area E and at least two other Skill Areas; display appropriate general knowledge in the remaining two",
+    "text": "8.2 Breadth of Knowledge Requirements\n\n\n\n\n\n\n\nCertification\nRequirement\n\n\n\n\nDSP\nDemonstrate applied understanding and knowledge in three of the five skill areas. They may have limited understanding in the remaining two areas.\n\n\nAdvDSP\nDemonstrate deep understanding and knowledge in Skill Area E and at least two other skill areas; display appropriate general knowledge in the remaining two skill areas.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
     ]
@@ -154,7 +164,7 @@
     "href": "chapters/07-professional-competence.html#proficiency-levels",
     "title": "8  Professional Competence",
     "section": "8.3 Proficiency Levels",
-    "text": "8.3 Proficiency Levels\nThe following table describes the levels of knowledge used to assess applicants:\n\n\n\n\n\n\n\n\nSkill Level\nProficiency\nExperience\n\n\n\n\nLimited\nLimited conceptual knowledge\nMinimal experience—read about it, some education and some practice with tools; some exposure in educational training setting\n\n\nGeneral\nGeneral conceptual knowledge; theoretical knowledge applied in education or training context\nCompleted formal education, including capstone project; has factual, procedural, and theoretical knowledge; can interpret and evaluate relevant information; is aware of different perspectives\n\n\nApplied\nApplied knowledge\nPerforms with supervision or mentoring\n\n\nDeep\nIn-depth knowledge\nProficient with state-of-the-art approaches without supervision; advanced practical and conceptual knowledge; understands different theoretical perspectives; can critically analyze complex information\n\n\nExpert\nExpert knowledge\nAdvances the state-of-the-art",
+    "text": "8.3 Proficiency Levels\nThe following table describes the levels of knowledge used to assess applicants:\n\n\n\n\n\n\n\n\nSkill Level\nProficiency\nExperience\n\n\n\n\nLimited\nLimited conceptual knowledge\nMinimal experience—read about it, some education and some practice with tools; some exposure in educational training setting\n\n\nGeneral\nGeneral conceptual knowledge; theoretical knowledge applied in education or training context\nCompleted formal education, including capstone project; has factual, procedural, and theoretical knowledge; can interpret and evaluate relevant information; is aware of different perspectives\n\n\nApplied\nApplied knowledge\nPerforms with supervision or mentoring\n\n\nDeep\nIn-depth knowledge\nProficient with state-of-the-art approaches without supervision; advanced practical, conceptual, or technological knowledge and understanding of the field of work, enabling the applicant to create ways forward in contexts in which there are many interacting factors; understands different theoretical perspectives; can critically analyze complex information\n\n\nExpert\nExpert knowledge\nAdvances the state-of-the-art",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
     ]
@@ -164,7 +174,7 @@
     "href": "chapters/07-professional-competence.html#ethics-and-efficacy",
     "title": "8  Professional Competence",
     "section": "8.4 Ethics and Efficacy",
-    "text": "8.4 Ethics and Efficacy\nIt is important that all professionals working within the field of Data Science have a clear understanding of the ethics which underpin the collection, management, use, and communication of the data and the results with which they work. It is equally important that a data scientist takes responsibility for the assurance of the models they build. Assurance covers both the efficacy of the application and the ethical nature of its design and implementation.\nThese attributes are not something that can, or should, be assessed as one standalone criterion. Rather, when completing this application, you should wherever possible include reference to your knowledge and working practices relating to the appropriate ethical considerations such as:\nData considerations:\n\nCollection, validity for use in the intended purpose, permission for usage, storage, security\n\nModel considerations:\n\nDevelopment, testing (e.g., fairness, bias, error rates), usage (how could the model and results be used for an unintended purpose?), and transparency\n\nCommunication considerations:\n\nExplanation of why the science is required; the results achieved and how misinterpretation of the results can be minimized\n\nLegal and regulatory:\n\nRelevant laws and permissions of usage for data (including legal rights of individuals, privacy, and anonymity)\n\nEfficacy considerations:\n\nQuality assurance of code and data\nValidation of model fit\nRobustness of the model and software implementation\nOngoing monitoring of model implementation\n\n\n\n\n\n\n\nNote\n\n\n\nThe list above is not exhaustive. It serves as a guide to help applicants show the DSSC they are aware of the professional expectations of those who work in this field. Applicants should include any other areas of ethical and efficacy considerations they feel are important within their area of expertise.",
+    "text": "8.4 Ethics and Efficacy\nIt is important that all professionals working within the field of data science have a clear understanding of the ethics that underpin the collection, management, use, and communication of the data and the results with which they work. It is equally important that a data scientist takes responsibility for the assurance of the models they build. Assurance covers both the efficacy of the application and the ethical nature of its design and implementation.\nThese attributes are not something that can, or should, be assessed as one standalone criterion. Rather, when completing this application, you should wherever possible include reference to your knowledge and working practices relating to the appropriate ethical considerations such as the following:\nData considerations:\n\nCollection, validity for use in the intended purpose, permission for usage, storage, security\n\nModel considerations:\n\nDevelopment, testing (e.g., fairness, bias, error rates), usage (how the model and results could be used for an unintended purpose?), and transparency\n\nCommunication considerations:\n\nExplanation of why the science is required, the results achieved, and how misinterpretation of the results can be minimized\n\nLegal and regulatory:\n\nRelevant laws and permissions of usage for data (including legal rights of individuals, privacy, and anonymity)\n\nEfficacy considerations:\n\nQuality assurance of code and data\nValidation of model fit\nRobustness of the model and software implementation\nOngoing monitoring of model implementation\n\n\n\n\n\n\n\nNote\n\n\n\nThe list above is not exhaustive. It serves as a guide to help applicants show the DSCC they are aware of the professional expectations of those who work in this field. Applicants should include any other areas of ethical and efficacy considerations they feel are important within their area of expertise.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
     ]
@@ -174,7 +184,7 @@
     "href": "chapters/07-professional-competence.html#confidentiality-and-conflicts-of-interest",
     "title": "8  Professional Competence",
     "section": "8.5 Confidentiality and Conflicts of Interest",
-    "text": "8.5 Confidentiality and Conflicts of Interest\nApplicants may alert the DSSC that some members of the committee should not see their application materials due to confidentiality, conflict-of-interest, or other specified reasons. Members of the DSSC may also recuse themselves from reviewing certain applications for such reasons (see Section 17.1).",
+    "text": "8.5 Confidentiality and Conflicts of Interest\nApplicants may alert the DSCC that some members of the committee should not see their application materials due to confidentiality, conflict of interest, or other specified reasons. Members of the DSCC may also recuse themselves from reviewing certain applications for such reasons (see Section 17.1).",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Professional Competence</span>"
     ]
@@ -194,7 +204,7 @@
     "href": "chapters/09-application-form.html",
     "title": "10  Application Form",
     "section": "",
-    "text": "ASA provides an online application form for DSP and AdvDSP applicants. The form consists of five sections:\n\nPersonal information\nAcademic/training history\nCompetency and responsibility\nWork experience\nContinuing professional development\n\n\n\n\n\n\n\nNote\n\n\n\nThe DSSC may request additional information from applicants, including but not limited to responses to additional questions and a personal statement. The DSSC may also wish to interview applicants before reaching a decision.",
+    "text": "The ASA provides an online application form for DSP and AdvDSP applicants. The form consists of five sections:\n\nPersonal information\nAcademic/training history\nCompetency and responsibility\nWork experience\nContinuing professional development\n\n\n\n\n\n\n\nNote\n\n\n\nThe DSCC may request additional information from applicants, including but not limited to responses to additional questions and a personal statement. The DSCC may also wish to interview applicants before reaching a decision.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Application Form</span>"
     ]
@@ -202,21 +212,21 @@
   {
     "objectID": "chapters/10-dssc.html",
     "href": "chapters/10-dssc.html",
-    "title": "11  Data Science Certification Committee (DSSC)",
+    "title": "11  Data Science Certification Committee (DSCC)",
     "section": "",
-    "text": "11.1 Composition\nThe DSSC oversees the entire certification process, makes all decisions about certification, and provides constructive feedback to applicants who are not approved.\nThe DSSC consists of distinguished certified (or formerly certified, now retired) members of the ASA who are broadly representative of the membership. Members serve staggered three-year terms. DSSC members are appointed by the President-Elect or the Executive Director according to the usual committee appointment practices of the ASA. The chair of the committee is also appointed by the appropriate President-Elect or Executive Director to serve a three-year term, again in accordance with the ASA’s usual processes.",
+    "text": "11.1 Composition\nThe DSCC oversees the entire certification process, makes all decisions about certification, and provides constructive feedback to applicants who are not approved.\nThe DSCC consists of distinguished certified (or formerly certified, now retired) members of the ASA who are broadly representative of the membership. Members serve staggered three-year terms. DSCC members are appointed by the president-elect or the executive director according to the usual committee appointment practices of the ASA. The chair of the committee is also appointed by the appropriate president-elect or executive director to serve a three-year term, again in accordance with the ASA’s usual processes.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science Certification Committee (DSSC)</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science Certification Committee (DSCC)</span>"
     ]
   },
   {
     "objectID": "chapters/10-dssc.html#responsibilities",
     "href": "chapters/10-dssc.html#responsibilities",
-    "title": "11  Data Science Certification Committee (DSSC)",
+    "title": "11  Data Science Certification Committee (DSCC)",
     "section": "11.2 Responsibilities",
-    "text": "11.2 Responsibilities\nThe DSSC:\n\nSets its own procedures for reviewing applications\nMakes recommendations to the Board of Directors regarding changes to the certification process\nAssists in the planning and provision of services to certified members",
+    "text": "11.2 Responsibilities\nThe DSCC:\n\nMakes recommendations to the Board of Directors regarding changes to the certification process\nAssists in the planning and provision of services to certified members",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science Certification Committee (DSSC)</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science Certification Committee (DSCC)</span>"
     ]
   },
   {
@@ -224,7 +234,7 @@
     "href": "chapters/11-appeals.html",
     "title": "12  Appeals of Negative Decisions",
     "section": "",
-    "text": "12.1 Appeal Review Process\nApplicants who are denied certification will receive written feedback from the DSSC. Appeals of certification decisions must be made in writing to the chair of the DSSC within 30 days of notification of a negative decision regarding certification.\nThe Chair and two members (not involved in the original review) of the DSSC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.\nAs previously noted, unsuccessful applicants may reapply for certification.",
+    "text": "12.1 Appeal Review Process\nApplicants who are denied certification will receive written feedback from the DSCC. Appeals of certification decisions must be made in writing to the chair of the DSCC within 30 days of notification of a negative decision regarding certification.\nThe chair and two members (not involved in the original review) of the DSCC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.\nAs previously noted, unsuccessful applicants may reapply for certification.",
     "crumbs": [
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Appeals of Negative Decisions</span>"
     ]
@@ -234,7 +244,7 @@
     "href": "chapters/11-appeals.html#appeal-review-process",
     "title": "12  Appeals of Negative Decisions",
     "section": "",
-    "text": "Important\n\n\n\nNo new or additional material may be submitted for the appeal. The decision on appeal is final, and may not be appealed again to the DSSC, nor may any other entity within the ASA hear an appeal of a certification decision.",
+    "text": "Important\n\n\n\nNo new or additional material may be submitted for the appeal. The decision on appeal is final, and may not be appealed again to the DSCC, nor may any other entity within the ASA hear an appeal of a certification decision.",
     "crumbs": [
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Appeals of Negative Decisions</span>"
     ]
@@ -244,7 +254,7 @@
     "href": "chapters/12-maintenance.html",
     "title": "13  Maintenance of Certification",
     "section": "",
-    "text": "13.1 Fee Lapses\nMembers maintain their certified status through annual payment of membership dues and certification fees to the ASA. (See ?sec-membership for issues related to lapse of ASA membership. See Section 19.1 for issues related to effects of lapses on usage of the DSP or AdvDSP designations.)\nFailure to pay certification fees are grounds for loss of certified status. Exceptions may be granted by the Executive Director under special circumstances (for example, a prolonged illness).\nCertified members may choose to terminate certification at any time, though membership dues and certification fees are non-refundable.",
+    "text": "13.1 Fee Lapses\nMembers maintain their certified status through annual payment of membership dues and certification fees to the ASA. (See Section 4.1 for issues related to lapse of ASA membership. See Section 19.1 for issues related to effects of lapses on usage of the DSP or AdvDSP designations.)\nFailure to pay certification fees are grounds for loss of certified status. Exceptions may be granted by the executive director under special circumstances (for example, a prolonged illness).\nCertified members may choose to terminate certification at any time, though membership dues and certification fees are nonrefundable.",
     "crumbs": [
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Maintenance of Certification</span>"
     ]
@@ -264,7 +274,7 @@
     "href": "chapters/13-renewal.html",
     "title": "14  Renewal of Certification",
     "section": "",
-    "text": "14.1 Certification Period\nCertification covers a five-year period after which renewal will be required to maintain certified status.\nCertified status will begin on the date of approval by the DSSC, and this five-year period will end five years from the beginning of the certified member’s next full membership year at the time of certification.\nLife members’ five-year certification period ends five years from the date of initial certification.",
+    "text": "14.1 Certification Period\nCertification covers a five-year period after which renewal will be required to maintain certified status.\nCertified status will begin on the date of approval by the DSCC, and this five-year period will end five years from the beginning of the certified member’s next full membership year at the time of certification.\nLife members’ five-year certification period ends five years from the date of initial certification.",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Renewal of Certification</span>"
     ]
@@ -284,7 +294,7 @@
     "href": "chapters/13-renewal.html#renewal-requirements",
     "title": "14  Renewal of Certification",
     "section": "14.2 Renewal Requirements",
-    "text": "14.2 Renewal Requirements\nASA may request information from the certified member after the five-year period to indicate that the member is still actively practicing data science.\nThe DSSC will take into account temporary interruptions to employment including, but not limited to, those for illness and parental leave.",
+    "text": "14.2 Renewal Requirements\nThe ASA may request information from the certified member after the five-year period to indicate that the member is still actively practicing data science.\nThe DSCC will take into account temporary interruptions to employment including, but not limited to, those for illness and parental leave.",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Renewal of Certification</span>"
     ]
@@ -324,7 +334,7 @@
     "href": "chapters/15-disciplinary.html#complaint-process",
     "title": "16  Disciplinary Matters",
     "section": "16.2 Complaint Process",
-    "text": "16.2 Complaint Process\nWhen the ASA receives a formal complaint against a certified data scientist regarding one or more of the grounds for revocation:\n\nThe individual about whom the complaint was filed shall be notified of the complaint and given the opportunity to respond\nThe DSSC will conduct a preliminary investigation and may exonerate the individual based on this investigation\nIf further consideration is needed, the ASA Board of Directors, after seeking legal advice, will decide whether the individual should be exonerated, receive advice or warning regarding specified violations, or have their certification revoked\nThe Board will notify the individual of its decision within 14 days of its decision",
+    "text": "16.2 Complaint Process\nWhen the ASA receives a formal complaint against a certified data scientist regarding one or more of the grounds for revocation:\n\nThe individual about whom the complaint was filed shall be notified of the complaint and given the opportunity to respond\nThe DSCC will conduct a preliminary investigation and may exonerate the individual based on this investigation\nIf further consideration is needed, the ASA Board of Directors, after seeking legal advice, will decide whether the individual should be exonerated, receive advice or warning regarding specified violations, or have their certification revoked\nThe board will notify the individual of its decision within 14 days of its decision",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
     ]
@@ -344,7 +354,7 @@
     "href": "chapters/15-disciplinary.html#appeal-of-revocation",
     "title": "16  Disciplinary Matters",
     "section": "16.4 Appeal of Revocation",
-    "text": "16.4 Appeal of Revocation\nAn individual whose certification has been revoked may appeal through written notice to the Executive Director of the ASA within 30 days of receipt of notification of revocation. The Executive Committee of the ASA Board of Directors will review the individual’s appeal and will determine whether the revocation should be upheld or overturned.",
+    "text": "16.4 Appeal of Revocation\nAn individual whose certification has been revoked may appeal through written notice to the executive director of the ASA within 30 days of receipt of notification of revocation. The ASA Board of Directors Executive Committee will review the individual’s appeal and will determine whether the revocation should be upheld or overturned.",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Disciplinary Matters</span>"
     ]
@@ -354,7 +364,7 @@
     "href": "chapters/16-conflict-of-interest.html",
     "title": "17  Conflict of Interest",
     "section": "",
-    "text": "17.1 DSSC Member Obligations\nA member of the DSSC who has a conflict of interest with respect to any individual with an action (“case”) before the committee shall declare that conflict of interest and be absent from the deliberations related to the case.\nConflicts of interest include (but are not limited to):",
+    "text": "17.1 DSCC Member Obligations\nA member of the DSCC who has a conflict of interest with respect to any individual with an action (“case”) before the committee shall declare that conflict of interest and be absent from the deliberations related to the case.\nConflicts of interest include (but are not limited to):",
     "crumbs": [
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Conflict of Interest</span>"
     ]
@@ -374,7 +384,7 @@
     "href": "chapters/16-conflict-of-interest.html#applicant-rights",
     "title": "17  Conflict of Interest",
     "section": "17.2 Applicant Rights",
-    "text": "17.2 Applicant Rights\nAn applicant may indicate the names of up to three committee members who the applicant believes may have a conflict of interest in reviewing their application. DSSC members thus identified will not participate in the review of that application.",
+    "text": "17.2 Applicant Rights\nAn applicant may indicate the names of up to three committee members who the applicant believes may have a conflict of interest in reviewing their application. DSCC members thus identified will not participate in the review of that application.",
     "crumbs": [
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Conflict of Interest</span>"
     ]
@@ -424,7 +434,7 @@
     "href": "chapters/19-dissolution.html",
     "title": "20  Dissolution of Certification Committee and Program",
     "section": "",
-    "text": "The Board of Directors of the American Statistical Association may, upon six months’ notice, dissolve the DSSC and cease awarding certification. In such circumstance, certified members may continue to use the DSP or AdvDSP designation through the period for which certification fees have been paid.",
+    "text": "The American Statistical Association Board of Directors may, upon six months’ notice, dissolve the DSCC and cease awarding certification. In such circumstances, certified members may continue to use the DSP or AdvDSP designation through the period for which certification fees have been paid.",
     "crumbs": [
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Dissolution of Certification Committee and Program</span>"
     ]

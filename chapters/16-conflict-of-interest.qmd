@@ -2,9 +2,9 @@
 title: "Conflict of Interest"
 ---
 
-## DSSC Member Obligations {#sec-conflict-of-interest}
+## DSCC Member Obligations {#sec-conflict-of-interest}
 
-A member of the DSSC who has a conflict of interest with respect to any individual with an action ("case") before the committee shall declare that conflict of interest and be absent from the deliberations related to the case.
+A member of the DSCC who has a conflict of interest with respect to any individual with an action ("case") before the committee shall declare that conflict of interest and be absent from the deliberations related to the case.
 
 Conflicts of interest include (but are not limited to):
 
@@ -14,4 +14,4 @@ Conflicts of interest include (but are not limited to):
 
 ## Applicant Rights
 
-An applicant may indicate the names of **up to three committee members** who the applicant believes may have a conflict of interest in reviewing their application. DSSC members thus identified will not participate in the review of that application.
+An applicant may indicate the names of **up to three committee members** who the applicant believes may have a conflict of interest in reviewing their application. DSCC members thus identified will not participate in the review of that application.

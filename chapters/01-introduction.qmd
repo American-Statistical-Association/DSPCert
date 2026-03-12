@@ -25,9 +25,9 @@ Applications are considered in confidence by the ASA's Data Science Certificatio
 3. Submit materials in English (translations must be provided for materials originally written in other languages)
 4. Pay the non-refundable application fee
 
-Application materials will be submitted electronically to the ASA and may be submitted at any time. Subgroups of the DSSC will review applications. However, **applications will not be reviewed until they are complete**—that is, until all required materials have been submitted and the non-refundable application fee has been received.
+Application materials will be submitted electronically to the ASA and may be submitted at any time. Subgroups of the DSCC will review applications. However, **applications will not be reviewed until they are complete**—that is, until all required materials have been submitted and the non-refundable application fee has been received.
 
-Unsuccessful applicants will receive written feedback from the DSSC and may reapply. Successful applicants will be assessed an annual maintenance fee.
+Unsuccessful applicants will receive written feedback from the DSCC and may reapply. Successful applicants will be assessed an annual maintenance fee.
 
 ## Applicant Responsibilities
 

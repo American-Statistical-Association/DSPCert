@@ -15,9 +15,9 @@ Certification may be revoked for a specified period by the ASA Board of Director
 When the ASA receives a formal complaint against a certified data scientist regarding one or more of the grounds for revocation:
 
 1. The individual about whom the complaint was filed shall be notified of the complaint and given the opportunity to respond
-2. The DSSC will conduct a preliminary investigation and may exonerate the individual based on this investigation
+2. The DSCC will conduct a preliminary investigation and may exonerate the individual based on this investigation
 3. If further consideration is needed, the ASA Board of Directors, after seeking legal advice, will decide whether the individual should be exonerated, receive advice or warning regarding specified violations, or have their certification revoked
-4. The Board will notify the individual of its decision **within 14 days** of its decision
+4. The board will notify the individual of its decision **within 14 days** of its decision
 
 ## Consequences of Revocation
 
@@ -29,4 +29,4 @@ Revocation of certification results in:
 
 ## Appeal of Revocation
 
-An individual whose certification has been revoked may appeal through written notice to the Executive Director of the ASA **within 30 days** of receipt of notification of revocation. The Executive Committee of the ASA Board of Directors will review the individual's appeal and will determine whether the revocation should be upheld or overturned.
+An individual whose certification has been revoked may appeal through written notice to the executive director of the ASA **within 30 days** of receipt of notification of revocation. The ASA Board of Directors Executive Committee will review the individual's appeal and will determine whether the revocation should be upheld or overturned.
