@@ -24,7 +24,7 @@
     "href": "index.html#quick-navigation",
     "title": "Guidelines for Voluntary Professional Data Science Certification",
     "section": "0.2 Quick Navigation",
-    "text": "0.2 Quick Navigation\nThe guidelines cover:\n\nEligibility: Level distinctions, Membership requirements, Education, and Experience\nStandards: Professional competence and skill areas\nProcess: Application form, The DSSC, and Appeals\nMaintaining certification: Maintenance, Renewal\nGovernance: Disciplinary matters, Conflict of interest, Public information\nAppendix: Extended Skill Area Standards (A–E)\n\n\nAdditional details for applicants are found on the ASA data science certification website.",
+    "text": "0.2 Quick Navigation\nThe guidelines cover:\n\nEligibility: Level distinctions, Membership requirements, Education, and Experience\nStandards: Professional competence and skill areas\nProcess: Application form, The DSCC, and Appeals\nMaintaining certification: Maintenance, Renewal\nGovernance: Disciplinary matters, Conflict of interest, Public information\nAppendix: Extended Skill Area Standards (A–E)\n\n\nAdditional details for applicants are found on the ASA data science certification website.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Guidelines for Voluntary Professional Data Science Certification</span>"
     ]
@@ -210,8 +210,8 @@
     ]
   },
   {
-    "objectID": "chapters/10-dssc.html",
-    "href": "chapters/10-dssc.html",
+    "objectID": "chapters/10-dscc.html",
+    "href": "chapters/10-dscc.html",
     "title": "11  Data Science Certification Committee (DSCC)",
     "section": "",
     "text": "11.1 Composition\nThe DSCC oversees the entire certification process, makes all decisions about certification, and provides constructive feedback to applicants who are not approved.\nThe DSCC consists of distinguished certified (or formerly certified, now retired) members of the ASA who are broadly representative of the membership. Members serve staggered three-year terms. DSCC members are appointed by the president-elect or the executive director according to the usual committee appointment practices of the ASA. The chair of the committee is also appointed by the appropriate president-elect or executive director to serve a three-year term, again in accordance with the ASA’s usual processes.",
@@ -220,8 +220,8 @@
     ]
   },
   {
-    "objectID": "chapters/10-dssc.html#responsibilities",
-    "href": "chapters/10-dssc.html#responsibilities",
+    "objectID": "chapters/10-dscc.html#responsibilities",
+    "href": "chapters/10-dscc.html#responsibilities",
     "title": "11  Data Science Certification Committee (DSCC)",
     "section": "11.2 Responsibilities",
     "text": "11.2 Responsibilities\nThe DSCC:\n\nMakes recommendations to the Board of Directors regarding changes to the certification process\nAssists in the planning and provision of services to certified members",
