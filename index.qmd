@@ -35,4 +35,4 @@ The guidelines cover:
 
 ---
 
-*Additional details for applicants are found on the [ASA data science certification website](https://american-statistical-association.github.io/DSPCert/overview/).*
+**Additional details for applicants are found on the <a href="https://american-statistical-association.github.io/DSPCert/overview/" target="_blank">ASA data science certification website</a>.**
