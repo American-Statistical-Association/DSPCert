@@ -2,6 +2,6 @@
 title: "Certification from Other Statistical Societies"
 ---
 
-At this time, members of the ASA who are certified by other member organizations of the Alliance for Data Science Professionals and must apply for certification through the ASA process. There is no reciprocity.
+At this time, members of the ASA who are certified by other member organizations of the Alliance for Data Science Professionals must apply for certification through the ASA process. There is no reciprocity.
 
 
