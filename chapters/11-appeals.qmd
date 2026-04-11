@@ -2,14 +2,14 @@
 title: "Appeals of Negative Decisions"
 ---
 
-Applicants who are denied certification will receive written feedback from the DSSC. Appeals of certification decisions must be made **in writing** to the chair of the DSSC **within 30 days** of notification of a negative decision regarding certification.
+Applicants who are denied certification will receive written feedback from the DSCC. Appeals of certification decisions must be made **in writing** to the chair of the DSCC **within 30 days** of notification of a negative decision regarding certification.
 
 ## Appeal Review Process
 
-The Chair and two members (not involved in the original review) of the DSSC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.
+The chair and two members (not involved in the original review) of the DSCC will consider the appeal, and will vote to overturn the original decision only if they find that relevant information provided by the applicant as part of the original review was not properly understood or considered.
 
 ::: {.callout-important}
-No new or additional material may be submitted for the appeal. The decision on appeal is **final**, and may not be appealed again to the DSSC, nor may any other entity within the ASA hear an appeal of a certification decision.
+No new or additional material may be submitted for the appeal. The decision on appeal is **final**, and may not be appealed again to the DSCC, nor may any other entity within the ASA hear an appeal of a certification decision.
 :::
 
 As previously noted, unsuccessful applicants may reapply for certification.

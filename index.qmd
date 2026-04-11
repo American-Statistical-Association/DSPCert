@@ -28,11 +28,11 @@ The guidelines cover:
 
 - **Eligibility**: [Level distinctions](chapters/02-level-distinctions.qmd), [Membership requirements](chapters/03-membership.qmd), [Education](chapters/05-educational-requirements.qmd), and [Experience](chapters/06-experience.qmd)
 - **Standards**: [Professional competence and skill areas](chapters/07-professional-competence.qmd)
-- **Process**: [Application form](chapters/09-application-form.qmd), [The DSSC](chapters/10-dssc.qmd), and [Appeals](chapters/11-appeals.qmd)
+- **Process**: [Application form](chapters/09-application-form.qmd), [The DSCC](chapters/10-dscc.qmd), and [Appeals](chapters/11-appeals.qmd)
 - **Maintaining certification**: [Maintenance](chapters/12-maintenance.qmd), [Renewal](chapters/13-renewal.qmd)
 - **Governance**: [Disciplinary matters](chapters/15-disciplinary.qmd), [Conflict of interest](chapters/16-conflict-of-interest.qmd), [Public information](chapters/17-public-information.qmd)
 - **Appendix**: [Extended Skill Area Standards (A–E)](chapters/appendix-1.qmd)
 
 ---
 
-*Additional details for applicants are found on the [ASA data science certification website](https://www.amstat.org/your-career/data-science-certification).*
+**Additional details for applicants are found on the <a href="https://american-statistical-association.github.io/DSPCert/overview/" target="_blank">ASA data science certification website</a>.**

@@ -2,7 +2,7 @@
 title: "Application Form"
 ---
 
-ASA provides an online application form for DSP and AdvDSP applicants. The form consists of five sections:
+The ASA provides an online application form for DSP and AdvDSP applicants. The form consists of five sections:
 
 1. Personal information
 2. Academic/training history
@@ -11,5 +11,5 @@ ASA provides an online application form for DSP and AdvDSP applicants. The form 
 5. Continuing professional development
 
 ::: {.callout-note}
-The DSSC may request additional information from applicants, including but not limited to responses to additional questions and a personal statement. The DSSC may also wish to interview applicants before reaching a decision.
+The DSCC may request additional information from applicants, including but not limited to responses to additional questions and a personal statement. The DSCC may also wish to interview applicants before reaching a decision.
 :::

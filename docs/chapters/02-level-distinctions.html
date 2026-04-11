@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.9.29">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>3&nbsp; Level Distinctions – Guidelines for Voluntary Professional Data Science Certification</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-59898bd1c6b9d2bb783127feaa000c76.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-4928aee9384e66cb359dd8efc1d1e04a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-ee57072c53aa181a0a865fd06db9cd33.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e4472d937102777e488fccd906b87773.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,7 +101,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../ASA-logo.png" alt="American Statistical Association" class="navbar-logo">
+    <img src="../ASA-logo.png" alt="American Statistical Association" class="navbar-logo light-content">
+    <img src="../ASA-logo.png" alt="American Statistical Association" class="navbar-logo dark-content">
     </a>
   </div>
         <div class="quarto-navbar-tools tools-end">
@@ -185,8 +189,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../chapters/10-dssc.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science Certification Committee (DSSC)</span></span></a>
+  <a href="../chapters/10-dscc.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science Certification Committee (DSCC)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -324,7 +328,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Have responsibility for activities of a section or team</li>
 <li>Have decision-making authority at the section or team level</li>
 <li>Act as an advisor/consultant at a departmental level</li>
-<li>Understand how their individual practice impacts other departments</li>
+<li>Understand how their individual practice affects other departments</li>
 </ul>
 </section>
 <section id="advdsp-requirements" class="level2" data-number="3.2">
@@ -333,7 +337,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Have responsibility for a significant function across the organization</li>
 <li>Have significant decision-making authority within their given area of expertise</li>
-<li>Act as an advisor/consultant at a strategic level</li>
+<li>Act as an adviser/consultant at a strategic level</li>
 <li>Consider the impact across the business and, more widely, of actions undertaken based on their decisions</li>
 </ul>
 
@@ -392,13 +396,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

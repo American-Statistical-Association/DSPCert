@@ -4,4 +4,4 @@ title: "Ethical Standards"
 
 Applicants for DSP or AdvDSP status must agree to uphold the ASA's [Ethical Guidelines for Statistical Practice](https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice). (In addition, see @sec-professional-competence regarding ethics.)
 
-Certified statisticians, including those certified with DSP or AdvDSP status, who do not, in the judgment of the DSSC, uphold these ethical guidelines may be subject to disciplinary action (see @sec-disciplinary).
+Certified statisticians, including those certified with DSP or AdvDSP status, who do not, in the judgment of the DSCC, uphold these ethical guidelines may be subject to disciplinary action (see @sec-disciplinary).
